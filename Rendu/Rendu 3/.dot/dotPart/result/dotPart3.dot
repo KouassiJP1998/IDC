@@ -1,0 +1,100 @@
+
+digraph {
+        0 [label="Pralognan-la-Vanoise"]
+        
+                ;
+            3 [label="Côte du Barioz"]
+        
+                ;
+            1 [label="La Vanoise"]
+        
+                [shape=box];
+            2 [label="Petit Mont-Blanc"]
+        
+                [shape=box];
+            4 [label="Le Barioz"]
+        
+                ;
+            5 [label="Les Bieux"]
+        
+                ;
+            8 [label="Fontanettes"]
+        
+                ;
+            9 [label="Refuge des Barmettes"]
+        
+                ;
+            10 [label="Pont de la Glière"]
+        
+                ;
+            11 [label="Chalets de la Glière"]
+        
+                ;
+            12 [label="Le Moriond"]
+        
+                ;
+            13 [label="Pont du Chanton"]
+        
+                ;
+            14 [label="Lac des Vaches"]
+        
+                ;
+            15 [label="Lac des Vaches"]
+        
+                ;
+            17 [label="La Grande Casse"]
+        
+                ;
+            18 [label="Pointe du Creux Noir"]
+        
+                ;
+            19 [label="Lac Long"]
+        
+                ;
+            21 [label="Refuge du Col de la Vanoise ( Ex Félix Faure)"]
+        
+                ;
+            20 [label="Col de la Vanoise"]
+        
+                [shape=box];
+            23 [label="Lac Rond"]
+        
+                ;
+            24 [label="Pont de Croé-Vie"]
+        
+                [shape=box];
+            25 [label="Refuge d'Entre Deux Eaux"]
+        
+                ;
+            27 [label="Torrent de la Leisse"]
+        
+                ;
+            28 [label="Refuge de la Leisse"]
+        
+                ;
+            0 -> 3[label= suivre fontcolor=cadetblue];   
+        3 -> 4[label= passer fontcolor=cadetblue];   
+        3 -> 1 [style=dotted dir=none];  
+        3 -> 2 [style=dotted dir=none];  
+        4 -> 5;   
+        5 -> 8[label= suivre fontcolor=cadetblue];   
+        8 -> 9[label= suivre fontcolor=cadetblue];   
+        9 -> 10[label= poursuivre fontcolor=cadetblue];   
+        10 -> 11[label= arriver fontcolor=cadetblue];   
+        11 -> 12[label= mener fontcolor=cadetblue];   
+        12 -> 13[label= passer fontcolor=cadetblue];   
+        13 -> 14[label= parvenir fontcolor=cadetblue];   
+        14 -> 15;   
+        15 -> 17;   
+        17 -> 18[label= partir fontcolor=cadetblue];   
+        18 -> 19[label= bifurquer fontcolor=cadetblue];   
+        19 -> 21[label= parvenir fontcolor=cadetblue];   
+        21 -> 23[label= contourner fontcolor=cadetblue];   
+        21 -> 20 [style=dotted dir=none];  
+        23 -> 25;   
+        23 -> 24 [style=dotted dir=none][label= apercevoir fontcolor=cadetblue];  
+        25 -> 27[label= suivre fontcolor=cadetblue];   
+        27 -> 28[label= surgir fontcolor=cadetblue];   
+        
+}
+    

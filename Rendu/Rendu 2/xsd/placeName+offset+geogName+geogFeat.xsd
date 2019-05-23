@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.tei-c.org/ns/1.0" xmlns:sch="http://purl.oclc.org/dsdl/schematron">
+  <xs:include schemaLocation="../SchematGenerated.xsd"></xs:include>
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xml.xsd"/>
+  
+  <!-- Déclaration de l'élement balise offset --> 
+  <xs:element name="offset">
+    
+    <xs:annotation>
+      <xs:appinfo>
+        <sch:pattern>
+          <sch:rule context="*[@type]">
+            <sch:assert test="(@type = 'orientation' and @subtype = 'landmark:initial' or @subtype = 'landmark:final' or @subtype = 'left' or @subtype = 'above' or @subtype = 'before' or @subtype = 'right')"/>
+          </sch:rule>
+          <sch:rule context="*[@type]">
+            <sch:assert test="(@type = 'cardinal' and @subtype = 'north' or @subtype = 'east' or @subtype = 'west' or @subtype = 'north-east' or @subtype = 'east')"/>
+          </sch:rule>
+          <sch:rule context="*[@type]">
+            <sch:assert test="(@type = 'adjacency' and @subtype = 'meet' or @subtype = 'near' or @subtype = 'touch')"/>
+          </sch:rule>
+          <sch:rule context="*[@type]">
+            <sch:assert test="(@type = 'inclusion' and @subtype = 'inside' or @subtype = 'on')"/>
+          </sch:rule>
+        </sch:pattern>
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="w"/>
+      </xs:sequence>
+      
+      <!--L'attribut type avec tous les elements d'enumeration-->
+      <xs:attribute name="type" use="required" >
+        <xs:simpleType>
+          <xs:restriction base="xs:NMTOKEN">
+            <xs:enumeration value="orientation"/>
+            <xs:enumeration value="cardinal"/>
+            <xs:enumeration value="adjacency"/>
+            <xs:enumeration value="inclusion"/>
+            <xs:enumeration value="temporal"/>
+            <xs:enumeration value="direction"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+      
+      
+      <!--L'attribut subtype avec tous les elements d'enumeration-->
+      <xs:attribute name="subtype" use="optional" >
+        <xs:simpleType>
+          <xs:restriction base="xs:NMTOKEN">
+            <xs:enumeration value="landmark:initial"/>
+            <xs:enumeration value="landmark:final"/>
+            <xs:enumeration value="left"/>
+            <xs:enumeration value="right"/>
+            <xs:enumeration value="above"/>
+            <xs:enumeration value="before"/>
+            <xs:enumeration value="meet"/>
+            <xs:enumeration value="near"/>
+            <xs:enumeration value="touch"/>
+            <xs:enumeration value="inside"/>
+            <xs:enumeration value="on"/>
+            <xs:enumeration value="north"/>
+            <xs:enumeration value="east"/>
+            <xs:enumeration value="south"/>
+            <xs:enumeration value="west"/>
+            <xs:enumeration value="north-east"/>
+            <xs:enumeration value="next"/>
+            <xs:enumeration value="final"/>
+            <xs:enumeration value="bottom"/>
+            <xs:enumeration value="median"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>    
+      
+    </xs:complexType>
+  </xs:element>
+  
+  
+  
+  <xs:annotation>
+    <xs:documentation>
+      AUTEUR  : GNENEHI BAGRE JEAN PHILIPPE
+      BALISE  : placeName ET offset
+    </xs:documentation>
+  </xs:annotation>
+  
+  <xs:element name="placeName">  
+      <xs:complexType>
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" ref="ns1:geogName"/>
+        </xs:sequence>
+        
+        
+        <!--L'attribut type avec tous les elements d'enumeration-->
+        <xs:attribute name="type" use="optional" >
+          <xs:simpleType>
+            <xs:restriction base="xs:NCName">
+              <xs:enumeration value="relative"/>
+              <xs:enumeration value="absolute"/>
+            </xs:restriction>
+          </xs:simpleType>
+        </xs:attribute>
+        
+        <xs:attribute name="n" use="optional" type="xs:integer"/>
+        
+        
+        <xs:attribute name="key" use="optional"/>
+        
+        
+        <xs:attribute name="ref" use="optional" type="xs:anyURI"/>
+        <xs:attribute ref="xml:id" use="optional"/>
+        <xs:attribute name="subtype" use="optional"/>
+      </xs:complexType>
+    
+    
+    <!-- clef unique sur key et xml:id -->
+    <xs:unique name="uniciteXmlid" >      
+      <xs:selector xpath="./placeName" />      
+      <xs:field xpath="@xml:id"/>
+    </xs:unique>
+    
+    <xs:unique name="uniciteKey" >      
+      <xs:selector xpath="./placeName" />      
+      <xs:field xpath="@key" />
+    </xs:unique>
+    <!-- fin des clefs uniques -->
+  </xs:element>
+  
+  
+  
+  
+  <xs:element name="geogName">
+    <xs:complexType>
+      <xs:sequence>
+        <!--      geogFeat  elément fils de la balise geogName -->
+        <xs:element ref="ns1:geogFeat"/>
+        <!--        La balise geogName peut contenir des balises w -->
+        <xs:element maxOccurs="unbounded" ref="ns1:w"/>
+        <!--        Le sous element name de la balise geogName-->
+        <xs:element ref="ns1:name"/>
+      </xs:sequence>
+      
+      <!--      L'attribut subtype avec tous les elements d'enumeration-->
+      <xs:attribute name="subtype" use="required" >
+        <xs:simpleType>
+          <xs:restriction base="xs:NCName">
+            <xs:enumeration value="RHSE"/>
+            <xs:enumeration value="PPL"/>
+            <xs:enumeration value="PASS"/>
+            <xs:enumeration value="LK"/>
+            <xs:enumeration value="HTL"/>
+            <xs:enumeration value="STM"/>
+            <xs:enumeration value="TRL"/>
+            <xs:enumeration value="BDG"/>
+            <xs:enumeration value="HSE"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+      
+      <!--      L'attribut type avec tous les elements d'enumeration-->
+      <xs:attribute name="type" use="required" >
+        <xs:simpleType>
+          <xs:restriction base="xs:NCName">
+            <xs:enumeration value="N"/>
+            <xs:enumeration value="T"/>
+            <xs:enumeration value="P"/>
+            <xs:enumeration value="H"/>
+            <xs:enumeration value="S"/>
+            <xs:enumeration value="R"/>
+            <xs:enumeration value="TRL"/>
+            <xs:enumeration value="BDG"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  
+  
+  <!-- Déclaration de l'élement balise geogFeat --> 
+  <xs:element name="geogFeat">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="ns1:w"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+  
+  <xs:element name="rs">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:name"/>
+      </xs:sequence>
+      <xs:attribute name="n" use="required" type="xs:integer"/>
+    </xs:complexType>
+  </xs:element>
+  
+  
+  <!-- Déclaration de l'élement balise name -->
+  <xs:element name="name">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:w"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

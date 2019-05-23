@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./testStyle.css" type="text/css" ?>
+<p>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.0"
+           n="0"
+           key="geonames 6442850"
+           ref="http://www.geonames.org/6442850"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.3"
+           n="2"
+           subtype="compound"
+           key="osm 22723011"
+           ref="http://www.openstreetmap.org/way/22723011">
+</placeName>
+<placeName xml:id="ene.1"
+           n="1"
+           key="osm 1785285659"
+           ref="http://www.openstreetmap.org/node/1785285659">
+<placeName n="0"/>
+<placeName xml:id="ene.2"
+          n="0"
+          key="osm 33791201"
+          ref="http://www.openstreetmap.org/way/33791201"/>
+</placeName>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.6"
+           n="1"
+           type="absolute"
+           subtype="compound">
+   <placeName xml:id="ene.4"
+              n="0"
+              key="osm 348057397"
+              ref="http://www.openstreetmap.org/node/348057397"/>
+   <placeName xml:id="ene.5"
+              n="0"
+              key="osm 47483060"
+              ref="http://www.openstreetmap.org/way/47483060"/>
+</placeName>
+<placeName xmlns="http://www.tei-c.org/ns/1.0" xml:id="ene.7" n="0"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.8"
+           n="1"
+           key="osm 340021951"
+           ref="http://www.openstreetmap.org/node/340021951"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.9"
+           n="1"
+           key="osm 451703419"
+           ref="http://www.openstreetmap.org/node/451703419"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.10"
+           n="1"
+           key="osm 77515501"
+           ref="http://www.openstreetmap.org/way/77515501">
+   <placeName n="0"/>
+</placeName>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.11"
+           n="1"
+           type="relative"
+           key="osm 611846514"
+           ref="http://www.openstreetmap.org/node/611846514">
+   <placeName n="0"/>
+</placeName>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.12"
+           n="0"
+           key="osm 611766049"
+           ref="http://www.openstreetmap.org/node/611766049"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.13"
+           n="1"
+           key="osm 77516741"
+           ref="http://www.openstreetmap.org/way/77516741">
+   <placeName n="0"/>
+</placeName>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.14"
+           n="1"
+           key="osm 47518004"
+           ref="http://www.openstreetmap.org/way/47518004"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0" xml:id="ene.16" n="2">
+   <placeName xml:id="ene.15"
+              n="1"
+              key="osm 47518004"
+              ref="http://www.openstreetmap.org/way/47518004"/>
+</placeName>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.17"
+           n="0"
+           key="osm 26863476"
+           ref="http://www.openstreetmap.org/node/26863476"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.18"
+           n="0"
+           key="osm 392507241"
+           ref="http://www.openstreetmap.org/node/392507241"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.19"
+           type="relative"
+           n="1"
+           key="osm 206138757"
+           ref="http://www.openstreetmap.org/way/206138757"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.21"
+           n="2"
+           key="osm 451703414"
+           ref="http://www.openstreetmap.org/node/451703414">
+   <placeName xml:id="ene.20"
+              n="1"
+              key="osm 356247447"
+              ref="http://www.openstreetmap.org/node/356247447">
+      <placeName n="0"/>
+   </placeName>
+</placeName>
+<placeName xmlns="http://www.tei-c.org/ns/1.0" xml:id="ene.22" n="0"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.23"
+           n="1"
+           key="osm 77517260"
+           ref="http://www.openstreetmap.org/way/77517260"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.24"
+           n="1"
+           type="relative"
+           key="osm 208966838"
+           ref="http://www.openstreetmap.org/way/208966838"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.25"
+           n="1"
+           key="osm 108981729"
+           ref="http://www.openstreetmap.org/way/108981729"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0" xml:id="ene.26" n="0"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.27"
+           n="1"
+           key="geonames 3003757"
+           ref="http://www.geonames.org/3003757">
+   <placeName n="0"/>
+</placeName>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.28"
+           n="1"
+           key="osm 606374063"
+           ref="http://www.openstreetmap.org/node/606374063">
+   <placeName n="0"/>
+</placeName>
+</p>

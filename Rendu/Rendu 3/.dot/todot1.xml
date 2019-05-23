@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./testStyle.css" type="text/css" ?>
+<Parcours>
+    <Lieux name="Pralognan" id="d1e2" relation="fleche"/>
+    <Lieux Nom="etceluiduPetitMontBlanc"
+        id="d1e45"
+        direction="suivre"
+        relation="fleche"/>
+    <Lieux Nom="" id="d1e47" direction="suivre" relation="fleche"/>
+    <Lieux Nom="PetitMontBlanc"
+        id="d1e58"
+        direction="suivre"
+        relation="fleche"/>
+    <Lieux Nom="deBariozetdeBieux"
+        id="d1e86"
+        direction="passer"
+        relation="fleche"/>
+    <Lieux Nom="Barioz" id="d1e91" direction="passer" relation="fleche"/>
+    <Lieux Nom="Bieux" id="d1e106" direction="passer" relation="fleche"/>
+    <Lieux Nom="leGR55" id="d1e125" direction="tomber" relation="fleche"/>
+    <Lieux Nom="" id="d1e143" direction="suivre" relation="fleche"/>
+    <Lieux Nom="" id="d1e152" direction="suivre" relation="fleche"/>
+    <Lieux Nom="" id="d1e160" direction="poursuivre" relation="fleche"/>
+    <Lieux Nom="" id="d1e168" direction="arriver" relation="fleche"/>
+    <Lieux Nom="Moriond" id="d1e185" direction="mener" relation="fleche"/>
+    <Lieux Nom="" id="d1e210" direction="passer" relation="fleche"/>
+    <Lieux Nom="" id="d1e218" direction="parvenir" relation="fleche"/>
+    <Lieux Nom="laPointeduCreuxNoir"
+        id="d1e244"
+        direction="partir"
+        relation="fleche"/>
+    <Lieux Nom="" id="d1e277" direction="bifurquer" relation="fleche"/>
+    <Lieux Nom="" id="d1e295" direction="parvenir" relation="fleche"/>
+    <Lieux Nom="le" id="d1e303" direction="continuer" relation="fleche"/>
+    <Lieux Nom="" id="d1e315" direction="contourner" relation="fleche"/>
+    <Lieux Nom="toutle" id="d1e329" direction="apercevoir" relation="vide"/>
+    <Lieux Nom="" id="d1e354" direction="prendre" relation="fleche"/>
+    <Lieux Nom="le" id="d1e371" direction="rester" relation="fleche"/>
+    <Lieux Nom="" id="d1e386" direction="suivre" relation="fleche"/>
+    <Lieux Nom="" id="d1e445" direction="surgir" relation="fleche"/>
+</Parcours>

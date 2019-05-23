@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resultats>
+   <entite_spatiale corpus="pralognan" id="0" key="geonames 6442850" lat="45.38139" lng="6.72139">Pralognan-la-Vanoise</entite_spatiale>
+   <entite_spatiale corpus="pralognan" id="1" key="osm 22723011">la route entre
+      <entite_spatiale corpus="pralognan" id="2" key="osm 243727637" lat="45.3801232" lng="6.7246029" />
+      <entite_spatiale corpus="pralognan" id="3" key="osm 243727636" lat="45.3800987" lng="6.7242667" />
+      <entite_spatiale corpus="pralognan" id="4" key="osm 603641457" lat="45.3800591" lng="6.7241439" />
+      <entite_spatiale corpus="pralognan" id="5" key="osm 604597258" lat="45.3799539" lng="6.7238594" />
+      <entite_spatiale corpus="pralognan" id="6" key="osm 243727634" lat="45.3799124" lng="6.7237211" />
+      <entite_spatiale corpus="pralognan" id="7" key="osm 1785285659" lat="45.379663" lng="6.7233095">l'hôtel de la Vanoise</entite_spatiale>
+      <entite_spatiale corpus="pralognan" id="8" key="osm 33791201">Petit Mont Blanc
+         <entite_spatiale corpus="pralognan" id="9" key="osm 386911999" lat="45.3799072" lng="6.7230337" />
+         <entite_spatiale corpus="pralognan" id="10" key="osm 386912001" lat="45.3799516" lng="6.7232929" />
+         <entite_spatiale corpus="pralognan" id="11" key="osm 386912004" lat="45.3798293" lng="6.7233314" />
+         <entite_spatiale corpus="pralognan" id="12" key="osm 386912007" lat="45.3798138" lng="6.7232514" />
+         <entite_spatiale corpus="pralognan" id="13" key="osm 386912010" lat="45.3797999" lng="6.7232587" />
+         <entite_spatiale corpus="pralognan" id="14" key="osm 386912012" lat="45.3797801" lng="6.7231486" />
+         <entite_spatiale corpus="pralognan" id="15" key="osm 386912014" lat="45.3798418" lng="6.723127" />
+         <entite_spatiale corpus="pralognan" id="16" key="osm 386912017" lat="45.3798324" lng="6.7230793" />
+         <entite_spatiale corpus="pralognan" id="17" key="osm 386912018" lat="45.3798494" lng="6.723055" />
+         <entite_spatiale corpus="pralognan" id="18" key="osm 386911999" lat="45.3799072" lng="6.7230337" />
+      </entite_spatiale>
+   </entite_spatiale>
+   <entite_spatiale corpus="pralognan" id="19" key="osm 340021951" lat="45.3805943" lng="6.7336952">hameau des Fontanettes</entite_spatiale>
+   <entite_spatiale corpus="pralognan" id="20" key="osm 451703419" lat="45.3895634" lng="6.7527105">refuge des Barmettes</entite_spatiale>
+   <entite_spatiale corpus="pralognan" id="21" key="osm 77515501">le pont de la
+      <entite_spatiale corpus="pralognan" id="22" key="osm 912371188" lat="45.3897996" lng="6.7537857" />
+      <entite_spatiale corpus="pralognan" id="23" key="osm 912371196" lat="45.3898281" lng="6.753718" />
+   </entite_spatiale>
+   <entite_spatiale corpus="pralognan" id="24" key="osm 611846514" lat="45.3921844" lng="6.7586562">près des chalets de la Glière</entite_spatiale>
+   <entite_spatiale corpus="pralognan" id="25" key="osm 611766049" lat="45.3869432" lng="6.7581282">Moriond</entite_spatiale>
+   <entite_spatiale corpus="pralognan" id="26" key="osm 77516741">le pont du
+      <entite_spatiale corpus="pralognan" id="27" key="osm 912384568" lat="45.3953033" lng="6.767612" />
+      <entite_spatiale corpus="pralognan" id="28" key="osm 912384573" lat="45.3952253" lng="6.7676101" />
+   </entite_spatiale>
+   <entite_spatiale corpus="pralognan" id="29" key="osm 47518004">lac des Vaches
+      <entite_spatiale corpus="pralognan" id="30" key="osm 605031898" lat="45.398704" lng="6.7780228" />
+      <entite_spatiale corpus="pralognan" id="31" key="osm 605031892" lat="45.3988634" lng="6.777806" />
+      <entite_spatiale corpus="pralognan" id="32" key="osm 605031911" lat="45.3989802" lng="6.7775837" />
+      <entite_spatiale corpus="pralognan" id="33" key="osm 528221816" lat="45.3989029" lng="6.776967" />
+      <entite_spatiale corpus="pralognan" id="34" key="osm 605031887" lat="45.3986521" lng="6.7761611" />
+      <entite_spatiale corpus="pralognan" id="35" key="osm 605031884" lat="45.3983101" lng="6.7757795" />
+      <entite_spatiale corpus="pralognan" id="36" key="osm 605031854" lat="45.3981119" lng="6.7753378" />
+      <entite_spatiale corpus="pralognan" id="37" key="osm 605031855" lat="45.3976784" lng="6.7749617" />
+      <entite_spatiale corpus="pralognan" id="38" key="osm 605031844" lat="45.397299" lng="6.7747534" />
+      <entite_spatiale corpus="pralognan" id="39" key="osm 605031856" lat="45.3971217" lng="6.7748062" />
+      <entite_spatiale corpus="pralognan" id="40" key="osm 605031857" lat="45.3969779" lng="6.7750252" />
+      <entite_spatiale corpus="pralognan" id="41" key="osm 605031858" lat="45.3971608" lng="6.7757918" />
+      <entite_spatiale corpus="pralognan" id="42" key="osm 605031859" lat="45.3971475" lng="6.7765308" />
+      <entite_spatiale corpus="pralognan" id="43" key="osm 605031860" lat="45.3972398" lng="6.7769686" />
+      <entite_spatiale corpus="pralognan" id="44" key="osm 605031861" lat="45.3975181" lng="6.7770861" />
+      <entite_spatiale corpus="pralognan" id="45" key="osm 528221808" lat="45.3978584" lng="6.777481" />
+      <entite_spatiale corpus="pralognan" id="46" key="osm 605031894" lat="45.3983214" lng="6.7781177" />
+      <entite_spatiale corpus="pralognan" id="47" key="osm 605031898" lat="45.398704" lng="6.7780228" />
+   </entite_spatiale>
+   <entite_spatiale corpus="pralognan" id="48" key="osm 26863476" lat="45.4051204" lng="6.8278633">la Grande Casse</entite_spatiale>
+   <entite_spatiale corpus="pralognan" id="49" key="osm 392507241" lat="45.4062995" lng="6.7569985">la Pointe du Creux Noir</entite_spatiale>
+   <entite_spatiale corpus="pralognan" id="50" key="osm 206138757">lac Long
+      <entite_spatiale corpus="pralognan" id="51" key="osm 2161403457" lat="45.3969232" lng="6.7897986" />
+      <entite_spatiale corpus="pralognan" id="52" key="osm 2161403343" lat="45.3966626" lng="6.7897903" />
+      <entite_spatiale corpus="pralognan" id="53" key="osm 2161403189" lat="45.3962919" lng="6.7896522" />
+      <entite_spatiale corpus="pralognan" id="54" key="osm 2161403142" lat="45.3961355" lng="6.7896238" />
+      <entite_spatiale corpus="pralognan" id="55" key="osm 2161403119" lat="45.3960322" lng="6.7897205" />
+      <entite_spatiale corpus="pralognan" id="56" key="osm 2161403099" lat="45.3959077" lng="6.7899014" />
+      <entite_spatiale corpus="pralognan" id="57" key="osm 2161403083" lat="45.3957577" lng="6.7902072" />
+      <entite_spatiale corpus="pralognan" id="58" key="osm 2161403078" lat="45.3957024" lng="6.7903406" />
+      <entite_spatiale corpus="pralognan" id="59" key="osm 2161403067" lat="45.3956104" lng="6.7905569" />
+      <entite_spatiale corpus="pralognan" id="60" key="osm 2161403062" lat="45.3955535" lng="6.7907974" />
+      <entite_spatiale corpus="pralognan" id="61" key="osm 2161403058" lat="45.3954948" lng="6.7909434" />
+      <entite_spatiale corpus="pralognan" id="62" key="osm 2161403038" lat="45.3954052" lng="6.7910718" />
+      <entite_spatiale corpus="pralognan" id="63" key="osm 2161403028" lat="45.3952634" lng="6.7912166" />
+      <entite_spatiale corpus="pralognan" id="64" key="osm 2161403024" lat="45.3951934" lng="6.7913478" />
+      <entite_spatiale corpus="pralognan" id="65" key="osm 2161403025" lat="45.3949512" lng="6.7917095" />
+      <entite_spatiale corpus="pralognan" id="66" key="osm 5524870664" lat="45.3944571" lng="6.7917234" />
+      <entite_spatiale corpus="pralognan" id="67" key="osm 5524870662" lat="45.3942838" lng="6.7917931" />
+      <entite_spatiale corpus="pralognan" id="68" key="osm 5524870663" lat="45.3942009" lng="6.7920881" />
+      <entite_spatiale corpus="pralognan" id="69" key="osm 5524870660" lat="45.3939711" lng="6.7924422" />
+      <entite_spatiale corpus="pralognan" id="70" key="osm 5524870657" lat="45.3939109" lng="6.7928177" />
+      <entite_spatiale corpus="pralognan" id="71" key="osm 5524870658" lat="45.3940201" lng="6.7931664" />
+      <entite_spatiale corpus="pralognan" id="72" key="osm 5524870659" lat="45.3942273" lng="6.7927587" />
+      <entite_spatiale corpus="pralognan" id="73" key="osm 5524870661" lat="45.394442" lng="6.7927051" />
+      <entite_spatiale corpus="pralognan" id="74" key="osm 5524870665" lat="45.3948376" lng="6.7926782" />
+      <entite_spatiale corpus="pralognan" id="75" key="osm 5524870666" lat="45.3950749" lng="6.7923349" />
+      <entite_spatiale corpus="pralognan" id="76" key="osm 2161403065" lat="45.3953039" lng="6.7921893" />
+      <entite_spatiale corpus="pralognan" id="77" key="osm 2161403096" lat="45.3958717" lng="6.7920028" />
+      <entite_spatiale corpus="pralognan" id="78" key="osm 2161403139" lat="45.3961126" lng="6.7919473" />
+      <entite_spatiale corpus="pralognan" id="79" key="osm 2161403212" lat="45.3963268" lng="6.7919164" />
+      <entite_spatiale corpus="pralognan" id="80" key="osm 2161403316" lat="45.3965712" lng="6.7919363" />
+      <entite_spatiale corpus="pralognan" id="81" key="osm 2161403384" lat="45.3968021" lng="6.7918908" />
+      <entite_spatiale corpus="pralognan" id="82" key="osm 2161403407" lat="45.39724" lng="6.7918394" />
+      <entite_spatiale corpus="pralognan" id="83" key="osm 2161403435" lat="45.3976167" lng="6.7916606" />
+      <entite_spatiale corpus="pralognan" id="84" key="osm 2161403446" lat="45.3976615" lng="6.7910076" />
+      <entite_spatiale corpus="pralognan" id="85" key="osm 2161403453" lat="45.3977185" lng="6.790191" />
+      <entite_spatiale corpus="pralognan" id="86" key="osm 2161403476" lat="45.397366" lng="6.7896338" />
+      <entite_spatiale corpus="pralognan" id="87" key="osm 2161403457" lat="45.3969232" lng="6.7897986" />
+   </entite_spatiale>
+   <entite_spatiale corpus="pralognan" id="88" key="osm 451703414" lat="45.3919079" lng="6.7905185">refuge du Col de la</entite_spatiale>
+   <entite_spatiale corpus="pralognan" id="89" key="osm 77517260">le Lac Rond
+      <entite_spatiale corpus="pralognan" id="90" key="osm 912394675" lat="45.3884591" lng="6.7978734" />
+      <entite_spatiale corpus="pralognan" id="91" key="osm 912394657" lat="45.3886584" lng="6.7979353" />
+      <entite_spatiale corpus="pralognan" id="92" key="osm 912394608" lat="45.3888108" lng="6.7981479" />
+      <entite_spatiale corpus="pralognan" id="93" key="osm 912394616" lat="45.3888723" lng="6.7985266" />
+      <entite_spatiale corpus="pralognan" id="94" key="osm 912394654" lat="45.388861" lng="6.7989877" />
+      <entite_spatiale corpus="pralognan" id="95" key="osm 912394620" lat="45.3889062" lng="6.7992617" />
+      <entite_spatiale corpus="pralognan" id="96" key="osm 912394662" lat="45.3888783" lng="6.7995711" />
+      <entite_spatiale corpus="pralognan" id="97" key="osm 912394594" lat="45.3888124" lng="6.7999276" />
+      <entite_spatiale corpus="pralognan" id="98" key="osm 912394630" lat="45.38874" lng="6.8001636" />
+      <entite_spatiale corpus="pralognan" id="99" key="osm 912394603" lat="45.3886229" lng="6.8004231" />
+      <entite_spatiale corpus="pralognan" id="100" key="osm 912394643" lat="45.3884438" lng="6.8007712" />
+      <entite_spatiale corpus="pralognan" id="101" key="osm 912394660" lat="45.3883015" lng="6.8009236" />
+      <entite_spatiale corpus="pralognan" id="102" key="osm 912394610" lat="45.3881877" lng="6.8010424" />
+      <entite_spatiale corpus="pralognan" id="103" key="osm 912394619" lat="45.3880745" lng="6.8011001" />
+      <entite_spatiale corpus="pralognan" id="104" key="osm 912394642" lat="45.3879728" lng="6.8011031" />
+      <entite_spatiale corpus="pralognan" id="105" key="osm 912394591" lat="45.3878569" lng="6.8010057" />
+      <entite_spatiale corpus="pralognan" id="106" key="osm 912394653" lat="45.3876476" lng="6.8007102" />
+      <entite_spatiale corpus="pralognan" id="107" key="osm 912394599" lat="45.3875181" lng="6.8005949" />
+      <entite_spatiale corpus="pralognan" id="108" key="osm 912394607" lat="45.3873909" lng="6.8004208" />
+      <entite_spatiale corpus="pralognan" id="109" key="osm 912394644" lat="45.3873089" lng="6.8001848" />
+      <entite_spatiale corpus="pralognan" id="110" key="osm 912394618" lat="45.3873056" lng="6.7998155" />
+      <entite_spatiale corpus="pralognan" id="111" key="osm 912394655" lat="45.3873056" lng="6.7995878" />
+      <entite_spatiale corpus="pralognan" id="112" key="osm 912394676" lat="45.3874796" lng="6.7990506" />
+      <entite_spatiale corpus="pralognan" id="113" key="osm 912394629" lat="45.3876755" lng="6.7986689" />
+      <entite_spatiale corpus="pralognan" id="114" key="osm 912394596" lat="45.3878412" lng="6.7983961" />
+      <entite_spatiale corpus="pralognan" id="115" key="osm 912394637" lat="45.3878881" lng="6.7981919" />
+      <entite_spatiale corpus="pralognan" id="116" key="osm 912394641" lat="45.3880069" lng="6.7980262" />
+      <entite_spatiale corpus="pralognan" id="117" key="osm 912394585" lat="45.3881023" lng="6.7979515" />
+      <entite_spatiale corpus="pralognan" id="118" key="osm 4475900213" lat="45.388135" lng="6.7978685" />
+      <entite_spatiale corpus="pralognan" id="119" key="osm 912394652" lat="45.3883082" lng="6.7978772" />
+      <entite_spatiale corpus="pralognan" id="120" key="osm 912394675" lat="45.3884591" lng="6.7978734" />
+   </entite_spatiale>
+   <entite_spatiale corpus="pralognan" id="121" key="osm 208966838">tout en bas le pont de Croe-Vie
+      <entite_spatiale corpus="pralognan" id="122" key="osm 356238096" lat="45.3764551" lng="6.8339548" />
+      <entite_spatiale corpus="pralognan" id="123" key="osm 356238105" lat="45.3764947" lng="6.8340909" />
+   </entite_spatiale>
+   <entite_spatiale corpus="pralognan" id="124" key="osm 108981729">le refuge d'Entre-Deux-Eaux
+      <entite_spatiale corpus="pralognan" id="125" key="osm 1249013354" lat="45.3667" lng="6.839413" />
+      <entite_spatiale corpus="pralognan" id="126" key="osm 1249012451" lat="45.36675" lng="6.839319" />
+      <entite_spatiale corpus="pralognan" id="127" key="osm 1249013749" lat="45.3667236" lng="6.8392852" />
+      <entite_spatiale corpus="pralognan" id="128" key="osm 1249012888" lat="45.366765" lng="6.839231" />
+      <entite_spatiale corpus="pralognan" id="129" key="osm 1249012700" lat="45.3667284" lng="6.8391776" />
+      <entite_spatiale corpus="pralognan" id="130" key="osm 451703418" lat="45.3666825" lng="6.8392325" />
+      <entite_spatiale corpus="pralognan" id="131" key="osm 1249013966" lat="45.366598" lng="6.839124" />
+      <entite_spatiale corpus="pralognan" id="132" key="osm 1249013099" lat="45.366524" lng="6.839204" />
+      <entite_spatiale corpus="pralognan" id="133" key="osm 1249012859" lat="45.366569" lng="6.839285" />
+      <entite_spatiale corpus="pralognan" id="134" key="osm 1249014764" lat="45.366586" lng="6.839267" />
+      <entite_spatiale corpus="pralognan" id="135" key="osm 1249013368" lat="45.366665" lng="6.839358" />
+      <entite_spatiale corpus="pralognan" id="136" key="osm 1249012468" lat="45.366654" lng="6.839381" />
+      <entite_spatiale corpus="pralognan" id="137" key="osm 1249013354" lat="45.3667" lng="6.839413" />
+   </entite_spatiale>
+   <entite_spatiale corpus="pralognan" id="138" key="geonames 3003757" lat="45.3604" lng="6.83641">Torrent de la Leisse</entite_spatiale>
+   <entite_spatiale corpus="pralognan" id="139" key="osm 606374063" lat="45.396946" lng="6.8822055">le refuge de la Leisse</entite_spatiale>
+   <entite_spatiale corpus="leisse" id="140" key="osm 606374063" lat="45.396946" lng="6.8822055">refuge de la Leisse</entite_spatiale>
+   <entite_spatiale corpus="leisse" id="141" key="osm 1993701388" lat="45.424722" lng="6.9080562">col de Leisse</entite_spatiale>
+   <entite_spatiale corpus="leisse" id="142" key="osm 3294972333" lat="45.4030807" lng="6.8918371">le plan des Nettes</entite_spatiale>
+   <entite_spatiale corpus="leisse" id="143" key="osm 237049410">la droite du lac des Nettes
+      <entite_spatiale corpus="leisse" id="144" key="osm 2449986416" lat="45.4112432" lng="6.8998876" />
+      <entite_spatiale corpus="leisse" id="145" key="osm 2514504497" lat="45.4113314" lng="6.9000533" />
+      <entite_spatiale corpus="leisse" id="146" key="osm 2449986420" lat="45.4114181" lng="6.900216" />
+      <entite_spatiale corpus="leisse" id="147" key="osm 2449986422" lat="45.4116486" lng="6.8999971" />
+      <entite_spatiale corpus="leisse" id="148" key="osm 2449986425" lat="45.4119083" lng="6.8998084" />
+      <entite_spatiale corpus="leisse" id="149" key="osm 2449986432" lat="45.4120832" lng="6.8998876" />
+      <entite_spatiale corpus="leisse" id="150" key="osm 2449986435" lat="45.4121309" lng="6.9000273" />
+      <entite_spatiale corpus="leisse" id="151" key="osm 2449986436" lat="45.4121653" lng="6.900367" />
+      <entite_spatiale corpus="leisse" id="152" key="osm 2449986439" lat="45.412266" lng="6.9004916" />
+      <entite_spatiale corpus="leisse" id="153" key="osm 2449986442" lat="45.4124091" lng="6.9004954" />
+      <entite_spatiale corpus="leisse" id="154" key="osm 2449986445" lat="45.4125416" lng="6.9004463" />
+      <entite_spatiale corpus="leisse" id="155" key="osm 2449986449" lat="45.4127642" lng="6.9006237" />
+      <entite_spatiale corpus="leisse" id="156" key="osm 2449986455" lat="45.4130504" lng="6.9006841" />
+      <entite_spatiale corpus="leisse" id="157" key="osm 2449986464" lat="45.4133895" lng="6.9004991" />
+      <entite_spatiale corpus="leisse" id="158" key="osm 2449986466" lat="45.413424" lng="6.9003368" />
+      <entite_spatiale corpus="leisse" id="159" key="osm 2449986474" lat="45.4135618" lng="6.9001594" />
+      <entite_spatiale corpus="leisse" id="160" key="osm 2449986479" lat="45.413689" lng="6.8998725" />
+      <entite_spatiale corpus="leisse" id="161" key="osm 2449986482" lat="45.4137764" lng="6.899831" />
+      <entite_spatiale corpus="leisse" id="162" key="osm 2449986485" lat="45.4138453" lng="6.8999745" />
+      <entite_spatiale corpus="leisse" id="163" key="osm 2449986491" lat="45.4140387" lng="6.9001481" />
+      <entite_spatiale corpus="leisse" id="164" key="osm 2449986496" lat="45.414203" lng="6.900552" />
+      <entite_spatiale corpus="leisse" id="165" key="osm 2449986506" lat="45.4143938" lng="6.9007483" />
+      <entite_spatiale corpus="leisse" id="166" key="osm 2449986512" lat="45.4144971" lng="6.901054" />
+      <entite_spatiale corpus="leisse" id="167" key="osm 2449986534" lat="45.4147091" lng="6.9011559" />
+      <entite_spatiale corpus="leisse" id="168" key="osm 2449986544" lat="45.4148442" lng="6.9011182" />
+      <entite_spatiale corpus="leisse" id="169" key="osm 2449986532" lat="45.4146853" lng="6.900903" />
+      <entite_spatiale corpus="leisse" id="170" key="osm 2449986527" lat="45.4146296" lng="6.9006199" />
+      <entite_spatiale corpus="leisse" id="171" key="osm 2449986529" lat="45.4146694" lng="6.9002538" />
+      <entite_spatiale corpus="leisse" id="172" key="osm 2449986521" lat="45.4145766" lng="6.8998952" />
+      <entite_spatiale corpus="leisse" id="173" key="osm 2449986499" lat="45.4142507" lng="6.8995706" />
+      <entite_spatiale corpus="leisse" id="174" key="osm 2449986486" lat="45.413938" lng="6.8996234" />
+      <entite_spatiale corpus="leisse" id="175" key="osm 2449986470" lat="45.4135008" lng="6.8993554" />
+      <entite_spatiale corpus="leisse" id="176" key="osm 2449986471" lat="45.4135088" lng="6.899178" />
+      <entite_spatiale corpus="leisse" id="177" key="osm 2449986465" lat="45.4134134" lng="6.8989402" />
+      <entite_spatiale corpus="leisse" id="178" key="osm 2449986460" lat="45.4132756" lng="6.8989138" />
+      <entite_spatiale corpus="leisse" id="179" key="osm 2449986454" lat="45.4130477" lng="6.8984646" />
+      <entite_spatiale corpus="leisse" id="180" key="osm 2449986452" lat="45.412894" lng="6.8982796" />
+      <entite_spatiale corpus="leisse" id="181" key="osm 2449986446" lat="45.412629" lng="6.8982268" />
+      <entite_spatiale corpus="leisse" id="182" key="osm 2449986443" lat="45.412433" lng="6.8983702" />
+      <entite_spatiale corpus="leisse" id="183" key="osm 2449986441" lat="45.4123429" lng="6.8986118" />
+      <entite_spatiale corpus="leisse" id="184" key="osm 2449986440" lat="45.4123031" lng="6.8991138" />
+      <entite_spatiale corpus="leisse" id="185" key="osm 2449986438" lat="45.4121945" lng="6.899597" />
+      <entite_spatiale corpus="leisse" id="186" key="osm 2449986434" lat="45.4121282" lng="6.8997102" />
+      <entite_spatiale corpus="leisse" id="187" key="osm 2449986427" lat="45.4119825" lng="6.899631" />
+      <entite_spatiale corpus="leisse" id="188" key="osm 2449986424" lat="45.4118791" lng="6.8994347" />
+      <entite_spatiale corpus="leisse" id="189" key="osm 2449986423" lat="45.4117254" lng="6.8993781" />
+      <entite_spatiale corpus="leisse" id="190" key="osm 2449986418" lat="45.41132" lng="6.8993516" />
+      <entite_spatiale corpus="leisse" id="191" key="osm 2449986415" lat="45.4112299" lng="6.8995064" />
+      <entite_spatiale corpus="leisse" id="192" key="osm 2449986416" lat="45.4112432" lng="6.8998876" />
+   </entite_spatiale>
+   <entite_spatiale corpus="leisse" id="193" key="osm 1993701388" lat="45.424722" lng="6.9080562">col de la Leisse</entite_spatiale>
+   <entite_spatiale corpus="leisse" id="194" key="osm 1917284135" lat="45.4402997" lng="6.9262064">le col de Fresse</entite_spatiale>
+   <entite_spatiale corpus="leisse" id="195" key="osm 249838326" lat="45.4563141" lng="6.8999737">le Val Claret</entite_spatiale>
+   <entite_spatiale corpus="leisse" id="196" key="osm 606374063" lat="45.396946" lng="6.8822055">chalet de la Leisse</entite_spatiale>
+   <entite_spatiale corpus="leisse" id="197" key="osm 249838326" lat="45.4563141" lng="6.8999737">Val Claret</entite_spatiale>
+   <entite_spatiale corpus="leisse" id="198" key="osm 97309078">chalet de Lognan
+      <entite_spatiale corpus="leisse" id="199" key="osm 1126931466" lat="45.9708921" lng="6.9567053" />
+      <entite_spatiale corpus="leisse" id="200" key="osm 1126981195" lat="45.9708695" lng="6.9566" />
+      <entite_spatiale corpus="leisse" id="201" key="osm 1126970976" lat="45.9707157" lng="6.9566683" />
+      <entite_spatiale corpus="leisse" id="202" key="osm 1127080182" lat="45.970725" lng="6.9567113" />
+      <entite_spatiale corpus="leisse" id="203" key="osm 1126831599" lat="45.970769" lng="6.9566917" />
+      <entite_spatiale corpus="leisse" id="204" key="osm 1127029549" lat="45.9707823" lng="6.9567541" />
+      <entite_spatiale corpus="leisse" id="205" key="osm 4946714163" lat="45.9708282" lng="6.9567337" />
+      <entite_spatiale corpus="leisse" id="206" key="osm 1126931466" lat="45.9708921" lng="6.9567053" />
+   </entite_spatiale>
+   <entite_spatiale corpus="leisse" id="207" key="osm 184939055">refuge du Palet
+      <entite_spatiale corpus="leisse" id="208" key="osm 1955048756" lat="45.458318" lng="6.861085" />
+      <entite_spatiale corpus="leisse" id="209" key="osm 1955048752" lat="45.458254" lng="6.861089" />
+      <entite_spatiale corpus="leisse" id="210" key="osm 1955048754" lat="45.458259" lng="6.861319" />
+      <entite_spatiale corpus="leisse" id="211" key="osm 1955048757" lat="45.458324" lng="6.861316" />
+      <entite_spatiale corpus="leisse" id="212" key="osm 1955048756" lat="45.458318" lng="6.861085" />
+   </entite_spatiale>
+</resultats>

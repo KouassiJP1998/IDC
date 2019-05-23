@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./testStyle.css" type="text/css" ?>
+<p>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.0"
+           n="1"
+           key="osm 606374063"
+           ref="http://www.openstreetmap.org/node/606374063"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.1"
+           n="1"
+           key="osm 1993701388"
+           ref="http://www.openstreetmap.org/node/1993701388"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0" xml:id="ene.2" n="0"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.3"
+           n="1"
+           key="osm 3294972333"
+           ref="http://www.openstreetmap.org/node/3294972333"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.4"
+           n="1"
+           key="osm 237049410"
+           ref="http://www.openstreetmap.org/way/237049410"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.5"
+           n="1"
+           key="osm 1993701388"
+           ref="http://www.openstreetmap.org/node/1993701388"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.6"
+           n="1"
+           key="osm 1917284135"
+           ref="http://www.openstreetmap.org/node/1917284135"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.7"
+           key="osm 249838326"
+           ref="http://www.openstreetmap.org/node/249838326"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.8"
+           n="1"
+           key="osm 606374063"
+           ref="http://www.openstreetmap.org/node/606374063"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0" xml:id="ene.9" n="0"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.10"
+           key="osm 249838326"
+           ref="http://www.openstreetmap.org/node/249838326"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.11"
+           n="1"
+           key="osm 97309078"
+           ref="http://www.openstreetmap.org/way/97309078"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0" xml:id="ene.12" n="0"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0" xml:id="ene.13" n="1"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0" xml:id="ene.14" n="0"/>
+<placeName xmlns="http://www.tei-c.org/ns/1.0"
+           xml:id="ene.15"
+           n="1"
+           key="osm 184939055"
+           ref="http://www.openstreetmap.org/way/184939055"/>
+</p>

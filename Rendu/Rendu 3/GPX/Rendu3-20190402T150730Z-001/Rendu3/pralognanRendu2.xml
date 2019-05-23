@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./testStyle.css" type="text/css" ?>
+    
+<p xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="./SchemaRendu2.xsd">
+    <s>
+        <w lemma="à" type="PREP">A</w>
+        <placeName xml:id="ene.0" n="0" key="geonames 6442850" ref="http://www.geonames.org/6442850">
+            <name>
+                <w type="NPr">Pralognan</w>
+            </name>
+        </placeName>
+        <w lemma="suivre" type="V" subtype="motion_median">suivre</w>
+        <placeName xml:id="ene.3" n="2" subtype="compound" key="osm 22723011"
+            ref="http://www.openstreetmap.org/way/22723011">
+            <geogFeat>
+                <w lemma="le" type="DET">la</w>
+                <w lemma="route" type="N">route</w>
+            </geogFeat>
+            <offset type="inclusion">
+                <w lemma="entre" type="PREP">entre</w>
+            </offset>
+            <placeName xml:id="ene.1" n="1" key="osm 1785285659"
+                ref="http://www.openstreetmap.org/node/1785285659">
+                <geogName type="S" subtype="HTL">
+                    <geogFeat>
+                        <w lemma="le" type="DET">l'</w>
+                        <w lemma="hôtel" type="N">hôtel</w>
+                    </geogFeat>
+                    <w lemma="de" type="PREP">de</w>
+                    <w lemma="le" type="DET">la</w>
+                    <placeName n="0">
+                        <name>
+                            <w lemma="Vanoise" type="NPr">Vanoise</w>
+                        </name>
+                    </placeName>
+                </geogName>
+            </placeName>
+            <w lemma="et" type="CONJCv">et</w>
+            <w lemma="celui" type="PRO">celui</w>
+            <w lemma="du" type="PREPDET">du</w>
+            <placeName xml:id="ene.2" n="0" key="osm 33791201"
+                ref="http://www.openstreetmap.org/way/33791201">
+                <name>
+                    <w lemma="Petit" type="NPr">Petit</w>
+                    <w lemma="Mont" type="NPr">Mont</w>
+                    <w lemma="Blanc" type="NPr">Blanc</w>
+                </name>
+            </placeName>
+        </placeName>
+
+        <w lemma="et" type="CONJC">et</w>
+        <w lemma="continuer" type="V" subtype="motion_median">continuer</w>
+        <offset type="orientation">
+            <w lemma="tout" type="PRO">tout</w>
+            <w lemma="droit" type="N">droit</w>
+        </offset>
+
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+        <w lemma="passer" type="V" subtype="motion_median">Passer</w>
+        <placeName xml:id="ene.6" n="1" type="absolute" subtype="compound">
+            <geogFeat>
+                <w lemma="le" type="DET">les</w>
+                <w lemma="bourg" type="N">bourgs</w>
+            </geogFeat>
+            <w lemma="de" type="PREP">de</w>
+            <placeName xml:id="ene.4" n="0" key="osm 348057397"
+                ref="http://www.openstreetmap.org/node/348057397">
+                <name>
+                    <w type="NPr">Barioz</w>
+                </name>
+            </placeName>
+            <w lemma="et" type="CONJC">et</w>
+            <w lemma="de" type="PREP">de</w>
+            <placeName xml:id="ene.5" n="0" key="osm 47483060"
+                ref="http://www.openstreetmap.org/way/47483060">
+                <name>
+                    <w type="NPr">Bieux</w>
+                </name>
+            </placeName>
+        </placeName>
+
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+        <w lemma="on" type="PRO">On</w>
+        <w lemma="tomber" type="V" subtype="motion_median">tombe</w>
+        <w lemma="alors" type="ADV">alors</w>
+        <offset type="inclusion">
+            <w lemma="sur" type="PREP">sur</w>
+        </offset>
+        <placeName xml:id="ene.7" n="0">
+            <w lemma="le" type="DET">le</w>
+            <name>
+                <w type="NPr">GR55</w>
+            </name>
+        </placeName>
+
+        <w lemma="à" type="PREP">à</w>
+        <w lemma="suivre" type="V" subtype="motion_median">suivre</w>
+        <offset type="direction" subtype="final">
+            <w lemma="jusque" type="PREP">jusqu'</w>
+            <w lemma="au" type="PREPDET">au</w>
+        </offset>
+        <placeName xml:id="ene.8" n="1" key="osm 340021951"
+            ref="http://www.openstreetmap.org/node/340021951">
+            <geogName type="P" subtype="PPL">
+                <geogFeat>
+                    <w lemma="hameau" type="N">hameau</w>
+                </geogFeat>
+                <w lemma="du" type="PREPDET">des</w>
+
+                <name>
+                    <w type="NPr">Fontanettes</w>
+                </name>
+            </geogName>
+        </placeName>
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+        <w lemma="le" type="DET">Le</w>
+        <w lemma="sentier" type="N">sentier</w>
+        <w lemma="suivre" type="V" subtype="motion_median">suit</w>
+        <offset type="direction" subtype="median">
+            <w lemma="par" type="PREP">par</w>
+        </offset>
+        <offset type="orientation">
+            <w lemma="le" type="DET">la</w>
+            <w lemma="gauche" type="A">gauche</w>
+        </offset>
+        <term type="N">
+            <w lemma="un" type="DET">un</w>
+            <w lemma="télésiège" type="N">télésiège</w>
+        </term>
+        <offset type="direction" subtype="final">
+            <w lemma="jusque" type="PREP">jusqu'</w>
+            <w lemma="au" type="PREPDET">au</w>
+        </offset>
+        <placeName xml:id="ene.9" n="1" key="osm 451703419"
+            ref="http://www.openstreetmap.org/node/451703419">
+            <geogName type="S" subtype="RHSE">
+                <geogFeat>
+                    <w lemma="refuge" type="N">refuge</w>
+                </geogFeat>
+                <w lemma="du" type="PREPDET">des</w>
+
+                <name>
+                    <w type="NPr">Barmettes</w>
+                </name>
+
+            </geogName>
+        </placeName>
+
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+        <w lemma="poursuivre" type="V" subtype="motion_median">Poursuivre</w>
+        <offset type="direction" subtype="median">
+            <w lemma="par" type="PREP">par</w>
+        </offset>
+        <placeName xml:id="ene.10" n="1" key="osm 77515501"
+            ref="http://www.openstreetmap.org/way/77515501">
+            <geogName type="S" subtype="BDG">
+                <geogFeat>
+                    <w lemma="le" type="DET">le</w>
+                    <w lemma="pont" type="N">pont</w>
+                </geogFeat>
+                <w lemma="de" type="PREP">de</w>
+                <w lemma="le" type="DET">la</w>
+                <placeName n="0">
+                    <geogName type="H" subtype="STM">
+                        <name>
+                            <w type="NPr">Glière</w>
+                        </name>
+                    </geogName>
+                </placeName>
+            </geogName>
+        </placeName>
+
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+        <w lemma="arriver" type="V" subtype="motion_final">Arrivé</w>
+        <placeName xml:id="ene.11" n="1" type="relative" key="osm 611846514"
+            ref="http://www.openstreetmap.org/node/611846514">
+            <offset type="adjacency" subtype="near">
+                <w lemma="près" type="ADV">près</w>
+                <w lemma="du" type="PREPDET">des</w>
+            </offset>
+            <geogName type="S" subtype="HSE">
+                <geogFeat>
+                    <w lemma="chalet" type="N">chalets</w>
+                </geogFeat>
+                <w lemma="de" type="PREP">de</w>
+                <w lemma="le" type="DET">la</w>
+                <placeName n="0">
+                    <geogName type="H" subtype="STM">
+                        <name>
+                            <w type="NPr">Glière</w>
+                        </name>
+                    </geogName>
+                </placeName>
+            </geogName>
+        </placeName>
+
+        <pc force="weak">,</pc>
+        <w lemma="ne" type="ADV">ne</w>
+        <w lemma="pas" type="ADV">pas</w>
+        <w lemma="prendre" type="V" subtype="motion_median">prendre</w>
+        <term type="N">
+            <w lemma="le" type="DET">le</w>
+            <w lemma="sentier" type="N">sentier</w>
+        </term>
+        <w lemma="de" type="PREP">de</w>
+        <offset type="orientation" subtype="landmark:initial">
+            <w type="N">droite</w>
+        </offset>
+
+        <w lemma="qui" type="PRO">qui</w>
+        <w lemma="mener" type="V" subtype="topographic">mène</w>
+        <offset type="direction" subtype="final">
+            <w lemma="au" type="PREPDET">au</w>
+        </offset>
+        <placeName xml:id="ene.12" n="0" key="osm 611766049"
+            ref="http://www.openstreetmap.org/node/611766049">
+            <name>
+                <w type="NPr">Moriond</w>
+            </name>
+        </placeName>
+
+        <w lemma="mais" type="CONJC">mais</w>
+        <w lemma="filer" type="V" subtype="motion_median">filer</w>
+        <w lemma="tout" type="PRO">tout</w>
+        <offset type="orientation">
+            <w lemma="droit" type="N">droit</w>
+        </offset>
+
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+        <offset type="orientation">
+            <w lemma="plus" type="ADV">Plus</w>
+            <w lemma="loin" type="ADV">loin</w>
+        </offset>
+        <w lemma="passer" type="V" subtype="motion_median">passer</w>
+        <offset type="inclusion">
+            <w lemma="sur" type="PREP">sur</w>
+        </offset>
+        <placeName xml:id="ene.13" n="1" key="osm 77516741"
+            ref="http://www.openstreetmap.org/way/77516741">
+            <geogName type="S" subtype="BDG">
+                <geogFeat>
+                    <w lemma="le" type="DET">le</w>
+                    <w lemma="pont" type="N">pont</w>
+                </geogFeat>
+                <w lemma="du" type="PREPDET">du</w>
+                <placeName n="0">
+                    <geogName type="H" subtype="STM">
+                        <name>
+                            <w type="NPr">Chanton</w>
+                        </name>
+                    </geogName>
+                </placeName>
+            </geogName>
+        </placeName>
+
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+        <offset type="temporal">
+            <w lemma="peu" type="ADV">Peu</w>
+            <w lemma="après" type="ADV">après</w>
+        </offset>
+        <pc force="weak">,</pc>
+        <w lemma="on" type="PRO">on</w>
+        <w lemma="parvenir" type="V" subtype="motion_final">parvient</w>
+        <offset type="direction" subtype="final">
+            <w lemma="au" type="PREPDET">au</w>
+        </offset>
+        <placeName xml:id="ene.14" n="1" key="osm 47518004"
+            ref="http://www.openstreetmap.org/way/47518004">
+            <geogName type="H" subtype="LK">
+                <geogFeat>
+                    <w lemma="lac" type="N">lac</w>
+                </geogFeat>
+                <w lemma="du" type="PREPDET">des</w>
+
+                <name>
+                    <w lemma="vache" type="NPr">Vaches</w>
+                </name>
+
+            </geogName>
+        </placeName>
+
+        <w lemma="que" type="PRO">que</w>
+        <w lemma="le" type="DET">l'</w>
+        <w lemma="on" type="PRO">on</w>
+        <w lemma="traverser" type="V" subtype="motion_median">traverse</w>
+        <offset type="inclusion">
+            <w lemma="sur" type="PREP">sur</w>
+            <w lemma="du" type="PREPDET">des</w>
+        </offset>
+        <term type="N">
+            <w lemma="rocher" type="N">rochers</w>
+        </term>
+
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+        <w lemma="le" type="DET">Le</w>
+        <w lemma="dénivelé" type="N">dénivelé</w>
+        <offset type="temporal">
+            <w lemma="durant" type="PREP">durant</w>
+            <w lemma="durant" type="PREP">durant</w>
+        </offset>
+        <offset type="inclusion">
+            <w lemma="ce" type="PRO">cette</w>
+            <w lemma="partie" type="N">partie</w>
+        </offset>
+        <w lemma="être" type="V">est</w>
+        <w lemma="assez" type="ADV">assez</w>
+        <w lemma="conséquent" type="A">conséquent</w>
+        <pc force="weak">,</pc>
+        <w lemma="de" type="PREP">de</w>
+        <w lemma="le" type="DET">l'</w>
+        <w lemma="ordre" type="N">ordre</w>
+        <w lemma="de" type="PREP">de</w>
+        <measure type="distance" unit="m" quantity="1100">
+            <w type="N">1100m</w>
+        </measure>
+        <pc force="weak">,</pc>
+        <w lemma="mais" type="CONJC">mais</w>
+        <w lemma="rien" type="ADV">rien</w>
+        <w lemma="que" type="CONJC">que</w>
+        <placeName xml:id="ene.16" n="2">
+            <geogName type="R" subtype="TRL">
+                <geogFeat>
+                    <w lemma="le" type="DET">le</w>
+                    <w lemma="passage" type="N">passage</w>
+                </geogFeat>
+                <w lemma="du" type="PREPDET">du</w>
+                <placeName xml:id="ene.15" n="1" key="osm 47518004"
+                    ref="http://www.openstreetmap.org/way/47518004">
+                    <geogName type="H" subtype="LK">
+                        <geogFeat>
+                            <w lemma="lac" type="N">lac</w>
+                        </geogFeat>
+                        <w lemma="du" type="PREPDET">des</w>
+
+                        <name>
+                            <w lemma="vache" type="NPr">Vaches</w>
+                        </name>
+
+                    </geogName>
+                </placeName>
+            </geogName>
+        </placeName>
+        <w lemma="et" type="CONJC">et</w>
+        <term type="N">
+            <w lemma="le" type="DET">la</w>
+            <w lemma="vue" type="N">vue</w>
+        </term>
+        <offset type="inclusion">
+            <w lemma="sur" type="PREP">sur</w>
+        </offset>
+        <placeName xml:id="ene.17" n="0" key="osm 26863476"
+            ref="http://www.openstreetmap.org/node/26863476">
+            <w lemma="le" type="DET">la</w>
+            <name>
+                <w lemma="Grande" type="NPr">Grande</w>
+                <w type="NPr">Casse</w>
+            </name>
+        </placeName>
+        <!--</phr>-->
+        <w lemma="mériter" type="V">méritent</w>
+        <w lemma="le" type="DET">le</w>
+        <w lemma="détour" type="N">détour</w>
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+        <offset type="adjacency">
+            <w lemma="au" type="PREPDET">Au</w>
+            <w lemma="bout" type="N">bout</w>
+        </offset>
+        <w lemma="de" type="PREP">de</w>
+        <w lemma="ce" type="PRO">ce</w>
+        <w lemma="lac" type="N">lac</w>
+        <pc force="weak">,</pc>
+        <w lemma="le" type="DET">le</w>
+        <w lemma="chemin" type="N">chemin</w>
+        <w lemma="revenir" type="V" subtype="motion_final">revient</w>
+        <w lemma="un" type="DET">un</w>
+        <w lemma="peu" type="ADV">peu</w>
+        <offset type="direction" subtype="final">
+            <w lemma="vers" type="PREP">vers</w>
+        </offset>
+        <offset type="orientation" subtype="left">
+            <w lemma="le" type="DET">la</w>
+            <w lemma="gauche" type="A">gauche</w>
+        </offset>
+
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+        <w lemma="à" type="PREP">A</w>
+        <w lemma="un" type="DET">un</w>
+        <w lemma="petit" type="A">petit</w>
+        <w lemma="carrefour" type="N">carrefour</w>
+        <pc force="weak">,</pc>
+        <w lemma="ne" type="ADV">ne</w>
+        <w lemma="pas" type="ADV">pas</w>
+
+        <w lemma="partir" type="V" subtype="motion_initial">partir</w>
+        <offset type="direction" subtype="final">
+            <w lemma="vers" type="PREP">vers</w>
+        </offset>
+        <placeName xml:id="ene.18" n="0" key="osm 392507241"
+            ref="http://www.openstreetmap.org/node/392507241">
+            <w lemma="le" type="DET">la</w>
+            <name>
+                <w lemma="pointe" type="NPr">Pointe</w>
+                <w lemma="du" type="PREPDET">du</w>
+                <w type="NPr">Creux</w>
+                <w lemma="noir" type="NPr">Noir</w>
+            </name>
+        </placeName>
+
+        <w lemma="mais" type="CONJC">mais</w>
+
+        <w lemma="bifurquer" type="V" subtype="motion_median">bifurquer</w>
+        <w lemma="vers" type="PREP">vers</w>
+        <offset type="orientation" subtype="left">
+            <w lemma="le" type="DET">la</w>
+            <w type="N">droite</w>
+        </offset>
+        <offset type="direction" subtype="final">
+            <w lemma="en" type="PREP">en</w>
+            <w lemma="direction" type="N">direction</w>
+        </offset>
+        <w lemma="du" type="PREPDET">du</w>
+        <placeName xml:id="ene.19" type="relative" n="1" key="osm 206138757"
+            ref="http://www.openstreetmap.org/way/206138757">
+            <geogName type="H" subtype="LK">
+                <geogFeat>
+                    <w lemma="lac" type="N">lac</w>
+                </geogFeat>
+
+                <name>
+                    <w lemma="long" type="NPr">Long</w>
+                </name>
+
+            </geogName>
+        </placeName>
+
+        <w lemma="que" type="PRO">que</w>
+        <w lemma="le" type="DET">l'</w>
+        <w lemma="on" type="PRO">on</w>
+
+        <w lemma="contourner" type="V" subtype="motion_median">contournera</w>
+        <w lemma="également" type="ADV">également</w>
+        <offset type="direction" subtype="median">
+            <w lemma="par" type="PREP">par</w>
+        </offset>
+        <offset type="orientation" subtype="left">
+            <w lemma="le" type="DET">la</w>
+            <w type="N">droite</w>
+        </offset>
+
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+        <w lemma="on" type="PRO">On</w>
+
+        <w lemma="parvenir" type="V" subtype="motion_final">parvient</w>
+        <offset type="temporal" subtype="next">
+            <w lemma="ensuite" type="ADV">ensuite</w>
+        </offset>
+        <offset type="direction" subtype="final">
+            <w lemma="au" type="PREPDET">au</w>
+        </offset>
+        <placeName xml:id="ene.21" n="2" key="osm 451703414"
+            ref="http://www.openstreetmap.org/node/451703414">
+            <geogName type="S" subtype="RHSE">
+                <geogFeat>
+                    <w lemma="refuge" type="N">refuge</w>
+                </geogFeat>
+                <w lemma="du" type="PREPDET">du</w>
+                <placeName xml:id="ene.20" n="1" key="osm 356247447"
+                    ref="http://www.openstreetmap.org/node/356247447">
+                    <geogName type="T" subtype="PASS">
+                        <geogFeat>
+                            <w lemma="col" type="N">Col</w>
+                        </geogFeat>
+                        <w lemma="de" type="PREP">de</w>
+                        <w lemma="le" type="DET">la</w>
+                        <placeName n="0">
+                            <name>
+                                <w lemma="Vanoise" type="NPr">Vanoise</w>
+                            </name>
+                        </placeName>
+                    </geogName>
+                </placeName>
+            </geogName>
+        </placeName>
+
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+
+        <w lemma="continuer" type="V" subtype="motion_median">Continuer</w>
+        <offset type="inclusion">
+            <w lemma="sur" type="PREP">sur</w>
+        </offset>
+        <placeName xml:id="ene.22" n="0">
+            <w lemma="le" type="DET">le</w>
+            <geogName type="R" subtype="TRL">
+                <name>
+                    <w type="NPr">GR55</w>
+                </name>
+            </geogName>
+        </placeName>
+
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+        <w lemma="un" type="DET">Un</w>
+        <w lemma="bon" type="A">bon</w>
+        <w lemma="tronçon" type="N">tronçon</w>
+        <w lemma="de" type="PREP">de</w>
+        <w lemma="sentier" type="N">sentier</w>
+        <w lemma="avec" type="PREP">avec</w>
+        <w lemma="peu" type="ADV">peu</w>
+        <w lemma="de" type="PREP">de</w>
+        <w lemma="dénivelé" type="N">dénivelé</w>
+
+        <w lemma="contourner" type="V" subtype="motion_median">contourne</w>
+        <placeName xml:id="ene.23" n="1" key="osm 77517260"
+            ref="http://www.openstreetmap.org/way/77517260">
+            <geogName type="H" subtype="LK">
+                <geogFeat>
+                    <w lemma="le" type="DET">le</w>
+                    <w lemma="lac" type="N">Lac</w>
+                </geogFeat>
+
+                <name>
+                    <w lemma="rond" type="NPr">Rond</w>
+                </name>
+
+            </geogName>
+        </placeName>
+
+        <offset type="direction" subtype="median">
+            <w lemma="par" type="PREP">par</w>
+        </offset>
+        <w lemma="son" type="DET">sa</w>
+        <offset type="orientation" subtype="right">
+            <w type="N">droite</w>
+        </offset>
+        <w lemma="et" type="CONJC">et</w>
+
+        <w lemma="passer" type="V" subtype="motion_median">passe</w>
+        <offset type="direction">
+            <w lemma="plus" type="ADV">plus</w>
+            <w lemma="loin" type="ADV">loin</w>
+        </offset>
+        <offset type="orientation" subtype="front">
+            <w lemma="devant" type="PREP">devant</w>
+        </offset>
+        <term type="N">
+            <w lemma="un" type="DET">une</w>
+            <w lemma="croix" type="N">croix</w>
+        </term>
+
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+        <offset type="temporal" subtype="next">
+            <w lemma="plus" type="ADV">Plus</w>
+            <w lemma="tard" type="ADV">tard</w>
+        </offset>
+        <pc force="weak">,</pc>
+        <w lemma="un" type="DET">une</w>
+        <w lemma="bon" type="A">bonne</w>
+        <w lemma="descente" type="N">descente</w>
+        <w lemma="de" type="PREP">de</w>
+        <measure type="distance" unit="m" quantity="300">
+            <w type="N">300m</w>
+        </measure>
+        <w lemma="assez" type="ADV">assez</w>
+        <w lemma="raide" type="A">raide</w>
+        <w lemma="se" type="PRO">se</w>
+        <w lemma="profiler" type="V">profile</w>
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+        <w lemma="on" type="PRO">On</w>
+        <w lemma="pouvoir" type="V">peut</w>
+
+        <w lemma="apercevoir" type="V" subtype="perception">apercevoir</w>
+        <placeName xml:id="ene.24" n="1" type="relative" key="osm 208966838"
+            ref="http://www.openstreetmap.org/way/208966838">
+            <w lemma="tout" type="ADV">tout</w>
+            <offset type="orientation" subtype="bottom">
+                <w lemma="en" type="PREP">en</w>
+                <w lemma="bas" type="ADV">bas</w>
+            </offset>
+            <w lemma="le" type="DET">le</w>
+            <geogName type="S" subtype="BDG">
+                <geogFeat>
+                    <w lemma="pont" type="N">pont</w>
+                </geogFeat>
+                <w lemma="de" type="PREP">de</w>
+
+                <name>
+                    <w type="NPr">Croe-Vie</w>
+                </name>
+
+            </geogName>
+        </placeName>
+
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+        <w lemma="descendre" type="V" subtype="motion_final">Descendre</w>
+        <w lemma="tout" type="ADV">tout</w>
+        <offset type="orientation" subtype="bottom">
+            <w lemma="en" type="PREP">en</w>
+            <w lemma="bas" type="ADV">bas</w>
+        </offset>
+        <w lemma="pour" type="PREP">pour</w>
+        <w lemma="arriver" type="V" subtype="motion_final">arriver</w>
+        <w lemma="à" type="PREP">à</w>
+        <w lemma="ce" type="PRO">ce</w>
+        <w lemma="dernier" type="A">dernier</w>
+        <w lemma="et" type="CONJC">et</w>
+        <w lemma="le" type="PRO">le</w>
+        <w lemma="traverser" type="V" subtype="motion_median">traverser</w>
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+        <offset type="adjacency" subtype="near">
+            <w lemma="à" type="PREP">A</w>
+            <w lemma="son" type="DET">sa</w>
+            <w lemma="hauteur" type="N">hauteur</w>
+        </offset>
+        <pc force="weak">,</pc>
+        <w lemma="au" type="PREPDET">au</w>
+        <w lemma="carrefour" type="N">carrefour</w>
+        <pc force="weak">,</pc>
+
+        <w lemma="ne" type="ADV">ne</w>
+        <w lemma="pas" type="ADV">pas</w>
+        <w lemma="prendre" type="V" subtype="motion_median">prendre</w>
+        <w lemma="à" type="PREP">à</w>
+        <offset type="orientation">
+            <w type="N">droite</w>
+        </offset>
+        <offset type="direction">
+            <w lemma="vers" type="PREP">vers</w>
+        </offset>
+        <placeName xml:id="ene.25" n="1" key="osm 108981729"
+            ref="http://www.openstreetmap.org/way/108981729">
+            <geogName type="S" subtype="RHSE">
+                <geogFeat>
+                    <w lemma="le" type="DET">le</w>
+                    <w lemma="refuge" type="N">refuge</w>
+                </geogFeat>
+                <w lemma="de" type="PREP">d'</w>
+
+                <name>
+                    <w type="NPr">Entre-Deux-Eaux</w>
+                </name>
+
+            </geogName>
+        </placeName>
+
+        <pc force="weak">,</pc>
+        <w lemma="mais" type="CONJC">mais</w>
+
+        <w lemma="partir" type="V" subtype="motion_initial">partir</w>
+        <w lemma="à" type="PREP">à</w>
+        <offset type="orientation" subtype="left">
+            <w lemma="gauche" type="A">gauche</w>
+        </offset>
+
+        <w lemma="et" type="CONJC">et</w>
+
+        <w lemma="rester" type="V" subtype="motion_median">rester</w>
+        <offset type="inclusion">
+            <w lemma="sur" type="PREP">sur</w>
+        </offset>
+        <placeName xml:id="ene.26" n="0">
+            <w lemma="le" type="DET">le</w>
+            <geogName type="R" subtype="TRL">
+                <name>
+                    <w type="NPr">GR55</w>
+                </name>
+            </geogName>
+        </placeName>
+
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+
+        <w lemma="suivre" type="V" subtype="motion_median">Suivre</w>
+        <w lemma="alors" type="ADV">alors</w>
+        <placeName xml:id="ene.27" n="1" key="geonames 3003757"
+            ref="http://www.geonames.org/3003757">
+            <geogName type="H" subtype="STM">
+                <geogFeat>
+                    <w lemma="le" type="DET">le</w>
+                    <w lemma="torrent" type="N">torrent</w>
+                </geogFeat>
+                <w lemma="de" type="PREP">de</w>
+                <placeName n="0">
+                    <geogName type="H" subtype="STM">
+                        <w lemma="le" type="DET">la</w>
+                        <name>
+                            <w type="NPr">Leisse</w>
+                        </name>
+                    </geogName>
+                </placeName>
+            </geogName>
+        </placeName>
+        <offset type="orientation" subtype="right">
+            <w lemma="par" type="PREP">par</w>
+            <w lemma="le" type="DET">la</w>
+            <w type="N">droite</w>
+        </offset>
+        <offset type="temporal">
+            <w lemma="pendant" type="PREP">pendant</w>
+        </offset>
+        <measure type="distance" unit="km">
+            <w lemma="plusieurs" type="PRO">plusieurs</w>
+            <w lemma="kilomètre" type="N">kilomètres</w>
+        </measure>
+
+        <w lemma="pour" type="PREP">pour</w>
+
+        <w lemma="arriver" type="V" subtype="motion_final">arriver</w>
+        <offset type="direction" subtype="final">
+            <w lemma="à" type="PREP">à</w>
+        </offset>
+        <term type="N">
+            <w lemma="le" type="DET">l'</w>
+            <w lemma="étape" type="N">étape</w>
+            <w lemma="du" type="PREPDET">du</w>
+            <w lemma="jour" type="N">jour</w>
+        </term>
+
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+        <offset type="inclusion" subtype="north">
+            <w lemma="ce" type="PRO">Cette</w>
+            <w lemma="partie" type="N">partie</w>
+        </offset>
+
+        <w lemma="se" type="PRO">se</w>
+        <w lemma="faire" type="V">fait</w>
+        <offset type="inclusion">
+            <w lemma="dans" type="PREP">dans</w>
+        </offset>
+        <term type="N">
+            <w lemma="un" type="DET">une</w>
+            <w lemma="vallée" type="N">vallée</w>
+            <w lemma="sauvage" type="A">sauvage</w>
+        </term>
+        <w lemma="et" type="CONJC">et</w>
+        <w lemma="encaisser" type="V">encaissée</w>
+        <w lemma="de" type="PREP">de</w>
+        <w lemma="tout" type="PRO">toute</w>
+        <w lemma="beauté" type="N">beauté</w>
+        <w lemma="avec" type="PREP">avec</w>
+        <w lemma="son" type="DET">ses</w>
+        <w lemma="moraine" type="N">moraines</w>
+        <pc force="weak">,</pc>
+        <offset type="inclusion">
+            <w lemma="sur" type="PREP">sur</w>
+        </offset>
+        <term type="N">
+            <w lemma="un" type="DET">un</w>
+            <w lemma="chemin" type="N">chemin</w>
+        </term>
+        <!-- a transformer en offset ? -->
+        <w lemma="en" type="PREP">en</w>
+        <term type="N">
+            <w lemma="pente" type="N">pente</w>
+            <w lemma="doux" type="A">douce</w>
+        </term>
+        <w lemma="mais" type="CONJC">mais</w>
+        <w lemma="régulier" type="A">régulière</w>
+
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+        <offset type="orientation">
+            <w lemma="au" type="PREPDET">Au</w>
+            <w lemma="loin" type="ADV">loin</w>
+        </offset>
+        <pc force="weak">,</pc>
+
+        <w lemma="surgir" type="V" subtype="topographic">surgit</w>
+        <placeName xml:id="ene.28" n="1" key="osm 606374063"
+            ref="http://www.openstreetmap.org/node/606374063">
+            <geogName type="S" subtype="RHSE">
+                <geogFeat>
+                    <w lemma="le" type="DET">le</w>
+                    <w lemma="refuge" type="N">refuge</w>
+                </geogFeat>
+                <w lemma="de" type="PREP">de</w>
+                <placeName n="0">
+                    <geogName type="H" subtype="STM">
+                        <w lemma="le" type="DET">la</w>
+                        <name>
+                            <w type="NPr">Leisse</w>
+                        </name>
+                    </geogName>
+                </placeName>
+            </geogName>
+        </placeName>
+
+
+        <w lemma="percher" type="V" subtype="topographic">perché</w>
+        <offset type="inclusion">
+            <w lemma="sur" type="PREP">sur</w>
+        </offset>
+        <term type="N">
+            <w lemma="un" type="DET">une</w>
+            <w lemma="butte" type="N">butte</w>
+        </term>
+
+        <w lemma="qui" type="PRO">qui</w>
+        <w lemma="être" type="V">sera</w>
+        <w lemma="un" type="DET">un</w>
+        <w lemma="peu" type="ADV">peu</w>
+        <w lemma="dur" type="A">dure</w>
+        <w lemma="à" type="PREP">à</w>
+
+        <w lemma="gravir" type="V" subtype="motion_final">gravir</w>
+        <w lemma="en" type="PREP">en</w>
+        <w lemma="ce" type="PRO">cette</w>
+        <offset type="temporal">
+            <w lemma="fin" type="N">fin</w>
+            <w lemma="de" type="PREP">de</w>
+            <w lemma="journée" type="N">journée</w>
+        </offset>
+
+        <pc force="strong">.</pc>
+    </s>
+    <s>
+        <w lemma="voilà" type="ADV">Voilà</w>
+        <w lemma="vous" type="PRO">vous</w>
+        <w lemma="être" type="V">êtes</w>
+        <w lemma="arriver" type="V" subtype="motion_final">arrivés</w>
+        <pc force="strong" type="exclamative">!</pc>
+    </s>
+    <s/>
+</p>

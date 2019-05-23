@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     creator="byHand"
+     version="1.1"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+   <wpt lat="45.38139" lon="6.72139">
+      <time>2019-04-19T08:41:51.0+02:00
+            </time>
+      <name>Pralognan-la-Vanoise</name>
+   </wpt>
+   <wpt lat="45.3800591" lon="6.7241439">
+      <time>2019-04-19T08:41:51.3+02:00
+            </time>
+      <name>Côte du Barioz</name>
+   </wpt>
+   <wpt lat="45.3798377" lon="6.7241408">
+      <time>2019-04-19T08:41:51.4+02:00
+            </time>
+      <name>Le Barioz</name>
+   </wpt>
+   <wpt lat="45.38026001" lon="6.726376930000001">
+      <time>2019-04-19T08:41:51.5+02:00
+            </time>
+      <name>Les Bieux</name>
+   </wpt>
+   <wpt lat="45.3805943" lon="6.7336952">
+      <time>2019-04-19T08:41:51.8+02:00
+            </time>
+      <name>Fontanettes</name>
+   </wpt>
+   <wpt lat="45.3895634" lon="6.7527105">
+      <time>2019-04-19T08:41:51.9+02:00
+            </time>
+      <name>Refuge des Barmettes</name>
+   </wpt>
+   <wpt lat="45.3898281" lon="6.7537180">
+      <time>2019-04-19T08:41:51.10+02:00
+            </time>
+      <name>Pont de la Glière</name>
+   </wpt>
+   <wpt lat="45.3921844" lon="6.7586562">
+      <time>2019-04-19T08:41:51.11+02:00
+            </time>
+      <name>Chalets de la Glière</name>
+   </wpt>
+   <wpt lat="45.3869432" lon="6.7581282">
+      <ele>2297</ele>
+      <time>2019-04-19T08:41:51.12+02:00
+            </time>
+      <name>Le Moriond</name>
+   </wpt>
+   <wpt lat="45.3952253" lon="6.7676101">
+      <time>2019-04-19T08:41:51.13+02:00
+            </time>
+      <name>Pont du Chanton</name>
+   </wpt>
+   <wpt lat="45.397975088888884" lon="6.77651128888889">
+      <time>2019-04-19T08:41:51.14+02:00
+            </time>
+      <name>Lac des Vaches</name>
+   </wpt>
+   <wpt lat="45.397975088888884" lon="6.77651128888889">
+      <time>2019-04-19T08:41:51.15+02:00
+            </time>
+      <name>Lac des Vaches</name>
+   </wpt>
+   <wpt lat="45.4051204" lon="6.8278633">
+      <ele>3855</ele>
+      <time>2019-04-19T08:41:51.17+02:00
+            </time>
+      <name>La Grande Casse</name>
+   </wpt>
+   <wpt lat="45.4062995" lon="6.7569985">
+      <ele>3154</ele>
+      <time>2019-04-19T08:41:51.18+02:00
+            </time>
+      <name>Pointe du Creux Noir</name>
+   </wpt>
+   <wpt lat="45.395725000000006" lon="6.791275667567567">
+      <time>2019-04-19T08:41:51.19+02:00
+            </time>
+      <name>Lac Long</name>
+   </wpt>
+   <wpt lat="45.3919079" lon="6.7905185">
+      <ele>2516</ele>
+      <time>2019-04-19T08:41:51.21+02:00
+            </time>
+      <name>Refuge du Col de la Vanoise ( Ex Félix Faure)</name>
+   </wpt>
+   <wpt lat="45.388155845161286" lon="6.799418787096775">
+      <time>2019-04-19T08:41:51.23+02:00
+            </time>
+      <name>Lac Rond</name>
+   </wpt>
+   <wpt lat="45.36666503846155" lon="6.839283869230771">
+      <time>2019-04-19T08:41:51.25+02:00
+            </time>
+      <name>Refuge d'Entre Deux Eaux</name>
+   </wpt>
+   <wpt lat="45.3604" lon="6.83641">
+      <time>2019-04-19T08:41:51.27+02:00
+            </time>
+      <name>Torrent de la Leisse</name>
+   </wpt>
+   <wpt lat="45.3969460" lon="6.8822055">
+      <ele>2487</ele>
+      <time>2019-04-19T08:41:51.28+02:00
+            </time>
+      <name>Refuge de la Leisse</name>
+   </wpt>
+</gpx>

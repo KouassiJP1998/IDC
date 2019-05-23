@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resultats>
+   <entite_spatiale id="0" lng="6.722766" lat="45.380039" alt="1413.890869140625"
+      >Pralognan</entite_spatiale>
+   <entite_spatiale id="1" lng="6.72368" lat="45.379947" alt="1418.7734375">hotel de la
+      vanoise</entite_spatiale>
+   <entite_spatiale id="2" lng="6.723361" lat="45.380107" alt="1416.761474609375">hotel petit mont
+      blanc</entite_spatiale>
+   <entite_spatiale id="3" lng="6.7538015" lat="45.3898289" alt="2013.465576171875">le pont de la
+      glière</entite_spatiale>
+   <entite_spatiale id="4" lng="6.758482537324991" lat="45.39188889037437" alt="2052.9228515625"
+      >chalets de la glière</entite_spatiale>
+   <entite_spatiale id="5" lng="6.7676101" lat="45.3952253" alt="2225.336669921875">le pont du
+      chanton</entite_spatiale>
+   <entite_spatiale id="6" lng="6.775926470740161" lat="45.39763787659063" alt="2322.125732421875"
+      >lac des vaches</entite_spatiale>
+   <entite_spatiale id="7" lng="6.827468" lat="45.408848" alt="3287.39501953125">la grande
+      casse</entite_spatiale>
+   <entite_spatiale id="8" lng="6.7569985" lat="45.4062995" alt="3088.304931640625">la pointe du
+      creux noir</entite_spatiale>
+   <entite_spatiale id="9" lng="6.791168196099991" lat="45.39616475959541" alt="2470.743408203125"
+      >lac long</entite_spatiale>
+   <entite_spatiale id="10" lng="6.791927399327482" lat="45.390187459561844" alt="2527.4833984375"
+      >col de la vanoise</entite_spatiale>
+   <entite_spatiale id="11" lng="6.799378495787211" lat="45.38823138426213" alt="2495.029541015625"
+      >lac rond</entite_spatiale>
+   <entite_spatiale id="12" lng="6.831754" lat="45.375449" alt="2172.90185546875">pont de
+      croe-vie</entite_spatiale>
+   <entite_spatiale id="13" lng="6.839505" lat="45.369856" alt="2168.84619140625">refuge
+      d'Entre-deux-eaux</entite_spatiale>
+   <entite_spatiale id="14" lng="6.835294" lat="45.383498" alt="2141.29638671875">le torrent de la
+      leisse</entite_spatiale>
+   <entite_spatiale id="15" lng="6.8822055" lat="45.396946" alt="2468.32275390625">le refuge de la
+      leisse</entite_spatiale>
+</resultats>

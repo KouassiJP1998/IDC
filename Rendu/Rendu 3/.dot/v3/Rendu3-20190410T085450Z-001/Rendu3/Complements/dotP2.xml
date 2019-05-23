@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lieu id="ene.0" name="Pralognan-la-Vanoise">
+   <direct-edge>ene.3</direct-edge>
+</lieu>
+<lieu id="ene.3" name="Côte du Barioz">
+   <direct-edge>ene.4</direct-edge>
+   <infoPlace>ene.1</infoPlace>
+   <infoPlace>ene.2</infoPlace>
+</lieu>
+<lieu id="ene.1" name="La Vanoise"/>
+<lieu id="ene.2" name="Petit Mont-Blanc"/>
+<lieu id="ene.4" name="Le Barioz">
+   <direct-edge>ene.5</direct-edge>
+</lieu>
+<lieu id="ene.5" name="Les Bieux">
+   <direct-edge>ene.8</direct-edge>
+</lieu>
+<lieu id="ene.8" name="Fontanettes">
+   <direct-edge>ene.9</direct-edge>
+</lieu>
+<lieu id="ene.9" name="Refuge des Barmettes">
+   <direct-edge>ene.10</direct-edge>
+</lieu>
+<lieu id="ene.10" name="Pont de la Glière">
+   <direct-edge>ene.11</direct-edge>
+</lieu>
+<lieu id="ene.11" name="Chalets de la Glière">
+   <direct-edge>ene.12</direct-edge>
+</lieu>
+<lieu id="ene.12" name="Le Moriond">
+   <direct-edge>ene.13</direct-edge>
+</lieu>
+<lieu id="ene.13" name="Pont du Chanton">
+   <direct-edge>ene.14</direct-edge>
+</lieu>
+<lieu id="ene.14" name="Lac des Vaches">
+   <direct-edge>ene.15</direct-edge>
+</lieu>
+<lieu id="ene.15" name="Lac des Vaches">
+   <direct-edge>ene.17</direct-edge>
+</lieu>
+<lieu id="ene.17" name="La Grande Casse">
+   <direct-edge>ene.18</direct-edge>
+</lieu>
+<lieu id="ene.18" name="Pointe du Creux Noir">
+   <direct-edge>ene.19</direct-edge>
+</lieu>
+<lieu id="ene.19" name="Lac Long">
+   <direct-edge>ene.21</direct-edge>
+</lieu>
+<lieu id="ene.21" name="Refuge du Col de la Vanoise ( Ex Félix Faure)">
+   <direct-edge>ene.23</direct-edge>
+   <infoPlace>ene.20</infoPlace>
+</lieu>
+<lieu id="ene.20" name="Col de la Vanoise"/>
+<lieu id="ene.23" name="Lac Rond">
+   <direct-edge>ene.25</direct-edge>
+   <infoPlace>ene.24</infoPlace>
+</lieu>
+<lieu id="ene.24" name="Pont de Croé-Vie"/>
+<lieu id="ene.25" name="Refuge d'Entre Deux Eaux">
+   <direct-edge>ene.27</direct-edge>
+</lieu>
+<lieu id="ene.27" name="Torrent de la Leisse">
+   <direct-edge>ene.28</direct-edge>
+</lieu>
+<lieu id="ene.28" name="Refuge de la Leisse">
+   <direct-edge/>
+</lieu>

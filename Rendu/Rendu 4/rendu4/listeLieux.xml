@@ -1,0 +1,254 @@
+<liste>
+    <Lieu id="1" lien="http://api.geonames.org/get?geonameId=2987649&amp;username=unipau"
+        key="2987649">
+        <document docOrigine="./XMLFiles/1e_jour_de_pralognan_au_refuge_de_la_lei.xml">
+            <idOrigine idOrigine="1"/>
+        </document>
+        <point name="Petit Mont Blanc" latitude="45.35601" longitude="6.68551"/>
+    </Lieu>
+    <Lieu id="15" lien="http://api.geonames.org/get?geonameId=2982935&amp;username=unipau"
+        key="2982935">
+        <document docOrigine="./XMLFiles/1e_jour_de_pralognan_au_refuge_de_la_lei.xml">
+            <idOrigine idOrigine="15"/>
+        </document>
+        <point name="Lac Rond" latitude="45.38803" longitude="6.79961"/>
+    </Lieu>
+    <Lieu id="3" lien="http://api.geonames.org/get?geonameId=2979426&amp;username=unipau"
+        key="2979426">
+        <document docOrigine="./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml">
+            <idOrigine idOrigine="3"/>
+        </document>
+        <point name="Saint-Jacques" latitude="43.96984" longitude="6.37413"/>
+    </Lieu>
+    <Lieu id="10" lien="http://api.geonames.org/get?geonameId=2977332&amp;username=unipau"
+        key="2977332">
+        <document docOrigine="./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml">
+            <idOrigine idOrigine="10"/>
+        </document>
+        <point name="Saint-Privat" latitude="45.13831" longitude="2.09902"/>
+    </Lieu>
+    <Lieu id="11" lien="http://api.geonames.org/get?geonameId=3006837&amp;username=unipau"
+        key="3006837">
+        <document docOrigine="./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml">
+            <idOrigine idOrigine="11"/>
+        </document>
+        <point name="La Roche" latitude="45.28672" longitude="1.39695"/>
+    </Lieu>
+    <Lieu id="12" lien="http://api.geonames.org/get?geonameId=2981163&amp;username=unipau"
+        key="2981163">
+        <document docOrigine="./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml">
+            <idOrigine idOrigine="12"/>
+        </document>
+        <point name="Saint-Christophe" latitude="46.14561" longitude="-0.948"/>
+    </Lieu>
+    <Lieu id="13" lien="http://api.geonames.org/get?geonameId=3021267&amp;username=unipau"
+        key="3021267">
+        <document docOrigine="./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml">
+            <idOrigine idOrigine="13"/>
+        </document>
+        <point name="Dolaison" latitude="45.00266" longitude="3.83278"/>
+    </Lieu>
+    <Lieu id="14" lien="http://api.geonames.org/get?geonameId=2973481&amp;username=unipau"
+        key="2973481">
+        <document docOrigine="./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml">
+            <idOrigine idOrigine="14"/>
+        </document>
+        <point name="Tallode" latitude="44.99502" longitude="3.81125"/>
+    </Lieu>
+    <Lieu id="15" lien="http://api.geonames.org/get?geonameId=2998536&amp;username=unipau"
+        key="2998536">
+        <document docOrigine="./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml">
+            <idOrigine idOrigine="15"/>
+        </document>
+        <point name="Liac" latitude="43.41423" longitude="0.09948"/>
+    </Lieu>
+    <Lieu id="18" lien="http://api.geonames.org/get?geonameId=2977167&amp;username=unipau"
+        key="2977167">
+        <document docOrigine="./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml">
+            <idOrigine idOrigine="18"/>
+        </document>
+        <point name="Saint-Roch" latitude="47.4421" longitude="0.58486"/>
+    </Lieu>
+    <Lieu id="19" lien="http://api.geonames.org/get?geonameId=2989735&amp;username=unipau"
+        key="2989735">
+        <document docOrigine="./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml">
+            <idOrigine idOrigine="19"/>
+        </document>
+        <point name="Oeuf" latitude="48.53655" longitude="2.3721"/>
+    </Lieu>
+    <Lieu id="20" lien="http://api.geonames.org/get?geonameId=3025180&amp;username=unipau"
+        key="3025180">
+        <document docOrigine="./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml">
+            <idOrigine idOrigine="20"/>
+        </document>
+        <point name="Chier" latitude="45.11667" longitude="4.11667"/>
+    </Lieu>
+    <Lieu id="21" lien="http://api.geonames.org/get?geonameId=3038111&amp;username=unipau"
+        key="3038111">
+        <document docOrigine="./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml">
+            <idOrigine idOrigine="21"/>
+        </document>
+        <point name="Allier" latitude="46.5" longitude="3"/>
+    </Lieu>
+    <Lieu id="23" lien="http://api.geonames.org/get?geonameId=2985021&amp;username=unipau"
+        key="2985021">
+        <document docOrigine="./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml">
+            <idOrigine idOrigine="23"/>
+        </document>
+        <point name="Puy" latitude="45.02485" longitude="0.55874"/>
+    </Lieu>
+    <Lieu id="24" lien="http://api.geonames.org/get?geonameId=2970215&amp;username=unipau"
+        key="2970215">
+        <document docOrigine="./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml">
+            <idOrigine idOrigine="24"/>
+        </document>
+        <point name="Velay" latitude="45.33333" longitude="3.66667"/>
+    </Lieu>
+    <Lieu id="1" lien="http://api.geonames.org/get?geonameId=3033630&amp;username=unipau"
+        key="3033630">
+        <document docOrigine="./XMLFiles/1ere_etape_du_tmb.xml">
+            <idOrigine idOrigine="1"/>
+        </document>
+        <point name="Bellevue" latitude="48.58333" longitude="-3.81667"/>
+    </Lieu>
+    <Lieu id="4" lien="http://api.geonames.org/get?geonameId=2971694&amp;username=unipau"
+        key="2971694">
+        <document docOrigine="./XMLFiles/1ere_etape_du_tmb.xml">
+            <idOrigine idOrigine="4"/>
+        </document>
+        <point name="Tricot" latitude="49.5608" longitude="2.58789"/>
+    </Lieu>
+    <Lieu id="7" lien="http://api.geonames.org/get?geonameId=6931462&amp;username=unipau"
+        key="6931462">
+        <document docOrigine="./XMLFiles/1ere_etape_du_tmb.xml">
+            <idOrigine idOrigine="7"/>
+        </document>
+        <point name="Mont Truc" altitude="1811" latitude="45.83984" longitude="6.75018"/>
+    </Lieu>
+    <Lieu id="3" lien="http://api.geonames.org/get?geonameId=3017131&amp;username=unipau"
+        key="3017131">
+        <document docOrigine="./XMLFiles/2e_jour_du_refuge_de_la_leisse_au_refuge.xml">
+            <idOrigine idOrigine="3"/>
+        </document>
+        <point name="Fresse" latitude="47.7625" longitude="6.63279"/>
+    </Lieu>
+    <Lieu id="19" lien="http://api.geonames.org/get?geonameId=3021276&amp;username=unipau"
+        key="3021276">
+        <document docOrigine="./XMLFiles/4eme_etape_du_tmb.xml">
+            <idOrigine idOrigine="19"/>
+        </document>
+        <point name="Doire" latitude="45.05887" longitude="2.43169"/>
+    </Lieu>
+    <Lieu id="2" lien="http://api.geonames.org/get?geonameId=2992036&amp;username=unipau"
+        key="2992036">
+        <document docOrigine="./XMLFiles/7eme_etape_du_tmb.xml">
+            <idOrigine idOrigine="2"/>
+        </document>
+        <point name="Montroc" latitude="45.99795" longitude="6.93636"/>
+    </Lieu>
+    <Lieu id="9" lien="http://api.geonames.org/get?geonameId=3027301&amp;username=unipau"
+        key="3027301">
+        <document docOrigine="./XMLFiles/7eme_etape_du_tmb.xml">
+            <idOrigine idOrigine="9"/>
+        </document>
+        <point name="Chamonix" altitude="1060" latitude="45.92375" longitude="6.86933"/>
+    </Lieu>
+    <Lieu id="13" lien="http://api.geonames.org/get?geonameId=3027284&amp;username=unipau"
+        key="3027284">
+        <document docOrigine="./XMLFiles/7eme_etape_du_tmb.xml">
+            <idOrigine idOrigine="13"/>
+        </document>
+        <point name="Champ" latitude="49.23107" longitude="5.30751"/>
+    </Lieu>
+    <Lieu id="0" lien="http://api.geonames.org/get?geonameId=3013521&amp;username=unipau"
+        key="3013521">
+        <document docOrigine="./XMLFiles/alentours_d_hennebont_et_le_chemin_de_ha.xml">
+            <idOrigine idOrigine="0"/>
+        </document>
+        <point name="Hennebont" latitude="47.80512" longitude="-3.27337"/>
+    </Lieu>
+    <Lieu id="1" lien="http://api.geonames.org/get?geonameId=3032303&amp;username=unipau"
+        key="3032303">
+        <document docOrigine="./XMLFiles/alentours_d_hennebont_et_le_chemin_de_ha.xml">
+            <idOrigine idOrigine="1"/>
+        </document>
+        <point name="Blavet" latitude="47.7377" longitude="-3.34335"/>
+    </Lieu>
+    <Lieu id="2" lien="http://api.geonames.org/get?geonameId=2985963&amp;username=unipau"
+        key="2985963">
+        <document docOrigine="./XMLFiles/alentours_d_hennebont_et_le_chemin_de_ha.xml">
+            <idOrigine idOrigine="2"/>
+        </document>
+        <point name="Port-Louis" latitude="47.70704" longitude="-3.35484"/>
+    </Lieu>
+    <Lieu id="4" lien="http://api.geonames.org/get?geonameId=2981689&amp;username=unipau"
+        key="2981689">
+        <document docOrigine="./XMLFiles/alentours_d_hennebont_et_le_chemin_de_ha.xml">
+            <idOrigine idOrigine="4"/>
+        </document>
+        <point name="Saint-Antoine" latitude="44.03578" longitude="0.84028"/>
+    </Lieu>
+    <Lieu id="6" lien="http://api.geonames.org/get?geonameId=2979673&amp;username=unipau"
+        key="2979673">
+        <document docOrigine="./XMLFiles/alentours_d_hennebont_et_le_chemin_de_ha.xml">
+            <idOrigine idOrigine="6"/>
+        </document>
+        <point name="Saint-Gilles" latitude="48.15381" longitude="-1.82477"/>
+    </Lieu>
+    <Lieu id="9" lien="http://api.geonames.org/get?geonameId=2979865&amp;username=unipau"
+        key="2979865">
+        <document docOrigine="./XMLFiles/alentours_d_hennebont_et_le_chemin_de_ha.xml">
+            <idOrigine idOrigine="9"/>
+        </document>
+        <point name="Saint-Germain" latitude="47.72496" longitude="6.53117"/>
+    </Lieu>
+    <Lieu id="12" lien="http://api.geonames.org/get?geonameId=2997984&amp;username=unipau"
+        key="2997984">
+        <document docOrigine="./XMLFiles/alentours_d_hennebont_et_le_chemin_de_ha.xml">
+            <idOrigine idOrigine="12"/>
+        </document>
+        <point name="Lochrist" latitude="48.63022" longitude="-4.23533"/>
+    </Lieu>
+    <Lieu id="14" lien="http://api.geonames.org/get?geonameId=3015368&amp;username=unipau"
+        key="3015368">
+        <document docOrigine="./XMLFiles/alentours_d_hennebont_et_le_chemin_de_ha.xml">
+            <idOrigine idOrigine="14"/>
+        </document>
+        <point name="Grand" latitude="48.38494" longitude="5.48701"/>
+    </Lieu>
+    <Lieu id="7" lien="http://api.geonames.org/get?geonameId=3001378&amp;username=unipau"
+        key="3001378">
+        <document docOrigine="./XMLFiles/au_depart_de_la_pointe_du_millier.xml">
+            <idOrigine idOrigine="7"/>
+        </document>
+        <point name="Lescogan" latitude="48.08692" longitude="-4.46217"/>
+    </Lieu>
+    <Lieu id="0" lien="http://api.geonames.org/get?geonameId=2991724&amp;username=unipau"
+        key="2991724">
+        <document docOrigine="./XMLFiles/au_depart_de_merrien.xml">
+            <idOrigine idOrigine="0"/>
+        </document>
+        <point name="Merrien" latitude="47.78333" longitude="-3.65"/>
+    </Lieu>
+    <Lieu id="8" lien="http://api.geonames.org/get?geonameId=3013385&amp;username=unipau"
+        key="3013385">
+        <document docOrigine="./XMLFiles/au_depart_de_merrien.xml">
+            <idOrigine idOrigine="8"/>
+        </document>
+        <point name="Herry" latitude="47.21667" longitude="2.95385"/>
+    </Lieu>
+    <Lieu id="9" lien="http://api.geonames.org/get?geonameId=3032104&amp;username=unipau"
+        key="3032104">
+        <document docOrigine="./XMLFiles/au_depart_de_merrien.xml">
+            <idOrigine idOrigine="9"/>
+        </document>
+        <point name="Bois" latitude="45.48876" longitude="-0.59853"/>
+    </Lieu>
+    <Lieu id="11" lien="http://api.geonames.org/get?geonameId=2985579&amp;username=unipau"
+        key="2985579">
+        <document docOrigine="./XMLFiles/au_depart_de_merrien.xml">
+            <idOrigine idOrigine="11"/>
+        </document>
+        <point name="Prat" latitude="48.67677" longitude="-3.29707"/>
+    </Lieu>
+</liste>

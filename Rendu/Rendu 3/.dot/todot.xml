@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet href="./testStyle.css" type="text/css" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    
+    <teiHeader>
+        
+        <fileDesc>
+            
+            <titleStmt>
+                
+                <title>
+                    <!-- title of the resource -->
+                    
+                </title>
+                
+            </titleStmt>
+            
+            <publicationStmt>
+                
+                <p>
+                    <!-- Information about distribution of the resource -->
+                    
+                </p>
+                
+            </publicationStmt>
+            
+            <sourceDesc>
+                
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                    
+                </p>
+                
+            </sourceDesc>
+            
+        </fileDesc>
+        
+    </teiHeader>
+    
+    <text>
+        
+        <body>
+            
+            <p>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="suivre" type="V" subtype="motion_median">suivre</w>
+                    <placeName xml:id="ene.3" n="2" subtype="compound" key="osm 22723011" ref="http://www.openstreetmap.org/way/22723011">
+                        <placeName xml:id="ene.1" n="1" key="osm 1785285659" ref="http://www.openstreetmap.org/node/1785285659"/>
+                        <w lemma="et" type="CONJC">et</w>
+                        <w lemma="celui" type="PRO">celui</w>
+                        <w lemma="du" type="PREPDET">du</w>
+                        <placeName xml:id="ene.2" n="0" key="osm 33791201" ref="http://www.openstreetmap.org/way/33791201">
+                            <name>
+                                
+                                <w lemma="Petit" type="NPr">Petit</w>
+                                
+                                <w lemma="Mont" type="NPr">Mont</w>
+                                
+                                <w lemma="Blanc" type="NPr">Blanc</w>
+                                
+                            </name>
+                        </placeName>
+                    </placeName>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="continuer" type="V" subtype="motion_median">continuer</w>
+                </phr>
+                <phr type="verb_phrase" subtype="motion" function="cross">
+                    <w lemma="passer" type="V" subtype="motion_median">Passer</w>
+                    <placeName xml:id="ene.6" n="1" type="absolute" subtype="compound">
+                        <w lemma="de" type="PREP">de</w>
+                        <placeName xml:id="ene.4" n="0" key="osm 348057397" ref="http://www.openstreetmap.org/node/348057397">
+                            <name>
+                                
+                                <w type="NPr">Barioz</w>
+                                
+                            </name>
+                        </placeName>
+                        <w lemma="et" type="CONJC">et</w>
+                        <w lemma="de" type="PREP">de</w>
+                        <placeName xml:id="ene.5" n="0" key="osm 47483060" ref="http://www.openstreetmap.org/way/47483060">
+                            <name>
+                                
+                                <w type="NPr">Bieux</w>
+                                
+                            </name>
+                        </placeName>
+                    </placeName>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="tomber" type="V" subtype="motion_median">tombe</w>
+                    <w lemma="alors" type="ADV">alors</w>
+                    <placeName xml:id="ene.7" n="0">
+                        <w lemma="le" type="DET">le</w>
+                        <name>
+                            
+                            <w type="NPr">GR55</w>
+                            
+                        </name>
+                    </placeName>
+                </phr>
+                <phr type="verb_phrase" subtype="motion" function="reach">
+                    <w lemma="suivre" type="V" subtype="motion_median">suivre</w>
+                    <placeName xml:id="ene.8" n="1" key="osm 340021951" ref="http://www.openstreetmap.org/node/340021951"/>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="suivre" type="V" subtype="motion_median">suit</w>
+                    <placeName xml:id="ene.9" n="1" key="osm 451703419" ref="http://www.openstreetmap.org/node/451703419"/>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="poursuivre" type="V" subtype="motion_median">Poursuivre</w>
+                    <placeName xml:id="ene.10" n="1" key="osm 77515501" ref="http://www.openstreetmap.org/way/77515501"/>
+                </phr>
+                <phr type="verb_phrase" subtype="motion" function="reach">
+                    <w lemma="arriver" type="V" subtype="motion_final">Arrivé</w>
+                    <placeName xml:id="ene.11" n="1" type="relative" key="osm 611846514" ref="http://www.openstreetmap.org/node/611846514"/>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="prendre" type="V" subtype="motion_median">prendre</w>
+                    <w lemma="de" type="PREP">de</w>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="mener" type="V" subtype="topographic">mène</w>
+                    <placeName xml:id="ene.12" n="0" key="osm 611766049" ref="http://www.openstreetmap.org/node/611766049">
+                        <name>
+                            
+                            <w type="NPr">Moriond</w>
+                            
+                        </name>
+                    </placeName>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="filer" type="V" subtype="motion_median">filer</w>
+                    <w lemma="tout" type="PRO">tout</w>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="passer" type="V" subtype="motion_median">passer</w>
+                    <placeName xml:id="ene.13" n="1" key="osm 77516741" ref="http://www.openstreetmap.org/way/77516741"/>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="parvenir" type="V" subtype="motion_final">parvient</w>
+                    <placeName xml:id="ene.14" n="1" key="osm 47518004" ref="http://www.openstreetmap.org/way/47518004"/>
+                </phr>
+                <phr type="verb_phrase" subtype="motion" function="cross">
+                    <w lemma="traverser" type="V" subtype="motion_median">traverse</w>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="revenir" type="V" subtype="motion_final">revient</w>
+                    <w lemma="un" type="DET">un</w>
+                    <w lemma="peu" type="ADV">peu</w>
+                </phr>
+                <phr type="verb_phrase" subtype="motion" function="leave">
+                    <w lemma="partir" type="V" subtype="motion_initial">partir</w>
+                    <placeName xml:id="ene.18" n="0" key="osm 392507241" ref="http://www.openstreetmap.org/node/392507241">
+                        <w lemma="le" type="DET">la</w>
+                        <name>
+                            
+                            <w lemma="pointe" type="NPr">Pointe</w>
+                            
+                            <w lemma="du" type="PREPDET">du</w>
+                            
+                            <w type="NPr">Creux</w>
+                            
+                            <w lemma="noir" type="NPr">Noir</w>
+                            
+                        </name>
+                    </placeName>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="bifurquer" type="V" subtype="motion_median">bifurquer</w>
+                    <w lemma="vers" type="PREP">vers</w>
+                    <w lemma="du" type="PREPDET">du</w>
+                    <placeName xml:id="ene.19" type="relative" n="1" key="osm 206138757" ref="http://www.openstreetmap.org/way/206138757"/>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="contourner" type="V" subtype="motion_median">contournera</w>
+                    <w lemma="également" type="ADV">également</w>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="parvenir" type="V" subtype="motion_final">parvient</w>
+                    <placeName xml:id="ene.21" n="2" key="osm 451703414" ref="http://www.openstreetmap.org/node/451703414"/>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="continuer" type="V" subtype="motion_median">Continuer</w>
+                    <placeName xml:id="ene.22" n="0">
+                        <w lemma="le" type="DET">le</w>
+                    </placeName>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="contourner" type="V" subtype="motion_median">contourne</w>
+                    <placeName xml:id="ene.23" n="1" key="osm 77517260" ref="http://www.openstreetmap.org/way/77517260"/>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="passer" type="V" subtype="motion_median">passe</w>
+                </phr>
+                <phr type="verb_phrase" subtype="perception">
+                    <w lemma="apercevoir" type="V" subtype="perception">apercevoir</w>
+                    <placeName xml:id="ene.24" n="1" type="relative" key="osm 208966838" ref="http://www.openstreetmap.org/way/208966838">
+                        <w lemma="tout" type="ADV">tout</w>
+                        <w lemma="le" type="DET">le</w>
+                    </placeName>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="ne" type="ADV">ne</w>
+                    <w lemma="pas" type="ADV">pas</w>
+                    <w lemma="prendre" type="V" subtype="motion_median">prendre</w>
+                    <w lemma="à" type="PREP">à</w>
+                    <placeName xml:id="ene.25" n="1" key="osm 108981729" ref="http://www.openstreetmap.org/way/108981729"/>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="partir" type="V" subtype="motion_initial">partir</w>
+                    <w lemma="à" type="PREP">à</w>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="rester" type="V" subtype="motion_median">rester</w>
+                    <placeName xml:id="ene.26" n="0">
+                        <w lemma="le" type="DET">le</w>
+                    </placeName>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="suivre" type="V" subtype="motion_median">Suivre</w>
+                    <w lemma="alors" type="ADV">alors</w>
+                    <placeName xml:id="ene.27" n="1" key="geonames 3003757" ref="http://www.geonames.org/3003757"/>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="arriver" type="V" subtype="motion_final">arriver</w>
+                </phr>
+                <phr type="verb_phrase">
+                    <w lemma="se" type="PRO">se</w>
+                    <w lemma="faire" type="V">fait</w>
+                    <w lemma="et" type="CONJC">et</w>
+                    <w lemma="encaisser" type="V">encaissée</w>
+                    <w lemma="de" type="PREP">de</w>
+                    <w lemma="tout" type="PRO">toute</w>
+                    <w lemma="beauté" type="N">beauté</w>
+                    <w lemma="avec" type="PREP">avec</w>
+                    <w lemma="son" type="DET">ses</w>
+                    <w lemma="moraine" type="N">moraines</w>
+                    <w lemma="en" type="PREP">en</w>
+                    <w lemma="mais" type="CONJC">mais</w>
+                    <w lemma="régulier" type="A">régulière</w>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="surgir" type="V" subtype="topographic">surgit</w>
+                    <placeName xml:id="ene.28" n="1" key="osm 606374063" ref="http://www.openstreetmap.org/node/606374063"/>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="percher" type="V" subtype="topographic">perché</w>
+                </phr>
+                <phr type="verb_phrase" subtype="motion">
+                    <w lemma="gravir" type="V" subtype="motion_final">gravir</w>
+                    <w lemma="en" type="PREP">en</w>
+                    <w lemma="ce" type="PRO">cette</w>
+                </phr>
+            </p>
+            
+        </body>
+        
+    </text>
+    
+</TEI>

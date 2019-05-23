@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liste>
+   <lieu id="0" name="Pralognan-la-Vanoise">
+      <direct-edge info="suivre" id="3"/>
+   </lieu>
+   <lieu id="3" name="Côte du Barioz">
+      <direct-edge info="passer" id="4"/>
+      <infoPlace id="1"/>
+      <infoPlace id="2"/>
+   </lieu>
+   <lieu id="1" name="La Vanoise"/>
+   <lieu id="2" name="Petit Mont-Blanc"/>
+   <lieu id="4" name="Le Barioz">
+      <direct-edge id="5"/>
+   </lieu>
+   <lieu id="5" name="Les Bieux">
+      <direct-edge info="suivre" id="8"/>
+   </lieu>
+   <lieu id="8" name="Fontanettes">
+      <direct-edge info="suivre" id="9"/>
+   </lieu>
+   <lieu id="9" name="Refuge des Barmettes">
+      <direct-edge info="poursuivre" id="10"/>
+   </lieu>
+   <lieu id="10" name="Pont de la Glière">
+      <direct-edge info="arriver" id="11"/>
+   </lieu>
+   <lieu id="11" name="Chalets de la Glière">
+      <direct-edge info="mener" id="12"/>
+   </lieu>
+   <lieu id="12" name="Le Moriond">
+      <direct-edge info="passer" id="13"/>
+   </lieu>
+   <lieu id="13" name="Pont du Chanton">
+      <direct-edge info="parvenir" id="14"/>
+   </lieu>
+   <lieu id="14" name="Lac des Vaches">
+      <direct-edge id="15"/>
+   </lieu>
+   <lieu id="15" name="Lac des Vaches">
+      <direct-edge id="17"/>
+   </lieu>
+   <lieu id="17" name="La Grande Casse">
+      <direct-edge info="partir" id="18"/>
+   </lieu>
+   <lieu id="18" name="Pointe du Creux Noir">
+      <direct-edge info="bifurquer" id="19"/>
+   </lieu>
+   <lieu id="19" name="Lac Long">
+      <direct-edge info="parvenir" id="21"/>
+   </lieu>
+   <lieu id="21" name="Refuge du Col de la Vanoise ( Ex Félix Faure)">
+      <direct-edge info="contourner" id="23"/>
+      <infoPlace id="20"/>
+   </lieu>
+   <lieu id="20" name="Col de la Vanoise"/>
+   <lieu id="23" name="Lac Rond">
+      <direct-edge id="25"/>
+      <infoPlace id="24" info="apercevoir"/>
+   </lieu>
+   <lieu id="24" name="Pont de Croé-Vie"/>
+   <lieu id="25" name="Refuge d'Entre Deux Eaux">
+      <direct-edge info="suivre" id="27"/>
+   </lieu>
+   <lieu id="27" name="Torrent de la Leisse">
+      <direct-edge info="surgir" id="28"/>
+   </lieu>
+   <lieu id="28" name="Refuge de la Leisse">
+      <direct-edge id=""/>
+   </lieu>
+</liste>

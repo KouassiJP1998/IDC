@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     creator="byHand"
+     version="1.1"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+   <wpt lat="45.3969460" lon="6.8822055">
+      <ele>2487</ele>
+      <time>2019-04-19T08:41:51.0+02:00
+            </time>
+      <name>Refuge de la Leisse</name>
+   </wpt>
+   <wpt lat="45.4247220" lon="6.9080562">
+      <ele>2761</ele>
+      <time>2019-04-19T08:41:51.1+02:00
+            </time>
+      <name>Col de la Leisse</name>
+   </wpt>
+   <wpt lat="45.4030807" lon="6.8918371">
+      <time>2019-04-19T08:41:51.3+02:00
+            </time>
+      <name>Plan des Nettes</name>
+   </wpt>
+   <wpt lat="45.412961895918365" lon="6.89986228367347">
+      <time>2019-04-19T08:41:51.4+02:00
+            </time>
+      <name>Lac des Nettes</name>
+   </wpt>
+   <wpt lat="45.4247220" lon="6.9080562">
+      <ele>2761</ele>
+      <time>2019-04-19T08:41:51.5+02:00
+            </time>
+      <name>Col de la Leisse</name>
+   </wpt>
+   <wpt lat="45.4402997" lon="6.9262064">
+      <ele>2576</ele>
+      <time>2019-04-19T08:41:51.6+02:00
+            </time>
+      <name>Col de Fresse</name>
+   </wpt>
+   <wpt lat="45.3969460" lon="6.8822055">
+      <ele>2487</ele>
+      <time>2019-04-19T08:41:51.8+02:00
+            </time>
+      <name>Refuge de la Leisse</name>
+   </wpt>
+   <wpt lat="45.4563141" lon="6.8999737">
+      <time>2019-04-19T08:41:51.10+02:00
+            </time>
+      <name>Val-Claret</name>
+   </wpt>
+   <wpt lat="45.970809237500006" lon="6.956696212500001">
+      <ele>2032 2032 2032 2032 2032 2032 2032 2032</ele>
+      <time>2019-04-19T08:41:51.11+02:00
+            </time>
+      <name>Chalet Refuge de Lognan</name>
+   </wpt>
+   <wpt lat="45.4582946" lon="6.8611788">
+      <time>2019-04-19T08:41:51.15+02:00
+            </time>
+      <name>Refuge du Palet</name>
+   </wpt>
+</gpx>

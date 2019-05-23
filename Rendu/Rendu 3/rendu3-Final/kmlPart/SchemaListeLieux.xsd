@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <!-- résumé : nous avons une liste de lieu, chaque lieu peut etre référencé dans differents documents et plusieurs fois dans ce meme document. 
+    Un lieu est aussi composé d'un ou plusieurs points-->
+  
+  
+  <!-- Le xml comporte une liste qui contient des lieux -->
+  <xs:element name="liste">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="Lieu"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+  <!-- Chaque lieu est composé de point(s) et document(s)-->
+  <xs:element name="Lieu">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="document"/>
+        <xs:element maxOccurs="unbounded" ref="point"/>
+      </xs:sequence>
+      <!-- l'attribut id est relatif et unique a la liste -->
+      <xs:attribute name="id" use="required" type="xs:integer"/>
+      <!-- l'attribut key est une clef unique la liste qui représente le lieu sur le site internet (geoname par exemple) -->
+      <xs:attribute name="key" use="required" type="xs:integer"/>
+      <!-- le lien fait reference a l'endroit ou l'on trouve les informations de ce lieu -->
+      <xs:attribute name="lien" use="required" type="xs:anyURI"/>
+    </xs:complexType>
+  </xs:element>
+  
+  <!-- un document représente le document dans lequel on retrouve ce lieu, il est composé d'élément idOrigine -->
+  <xs:element name="document">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="idOrigine"/>
+      </xs:sequence>
+      <!-- doc origine indique le nom du document ou le lieu a été trouvé -->
+      <xs:attribute name="docOrigine" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  
+  <!-- l'element id origine permet de representé l'id que porte le lieu dans un document -->
+  <xs:element name="idOrigine">
+    <xs:complexType>
+      <xs:attribute name="idOrigine" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  
+  <!-- Un point permet d'avoir la longitude, latitude, altitude ... d'un point du lieu -->
+  <xs:element name="point">
+    <xs:complexType>
+      <xs:attribute name="altitude" type="xs:integer"/>
+      <xs:attribute name="latitude" use="required" type="xs:decimal"/>
+      <xs:attribute name="longitude" use="required" type="xs:decimal"/>
+      <xs:attribute name="name" use="required"/>
+      <xs:attribute name="place" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  
+</xs:schema>

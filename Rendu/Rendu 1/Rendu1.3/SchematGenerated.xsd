@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.tei-c.org/ns/1.0">
+  <xs:element name="TEI">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:teiHeader"/>
+        <xs:element ref="ns1:text"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="teiHeader">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:fileDesc"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="fileDesc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:titleStmt"/>
+        <xs:element ref="ns1:publicationStmt"/>
+        <xs:element ref="ns1:sourceDesc"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="titleStmt">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:title"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="title">
+    <xs:complexType mixed="true"/>
+  </xs:element>
+  <xs:element name="publicationStmt" type="ns1:p"/>
+  <xs:element name="sourceDesc" type="ns1:p"/>
+  <xs:element name="text">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:body"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="body" type="ns1:p"/>
+  <xs:complexType name="p">
+    <xs:sequence>
+      <xs:element ref="ns1:p"/>
+    </xs:sequence>
+  </xs:complexType>
+  
+  <xs:element name="p">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ns1:s"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+
+  <xs:element name="s">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:pc"/>
+        <xs:element ref="ns1:w"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  
+  <xs:simpleType name="simple">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="\,|\.|\!|\?|\(|\)"/>
+      <xs:length value="1"/>
+    </xs:restriction>
+  </xs:simpleType>
+  
+  
+  <!--    Pattern ponctuation-->
+  
+  <xs:element name="pc">
+    <xs:complexType mixed="true">
+      <xs:simpleContent>
+        <xs:extension base="ns1:ponctuation">
+          
+          <xs:attribute name="type" type="xs:NCName"/>
+          
+          <!-- Force enumeration -->
+          
+          <xs:attribute name="force">
+            <xs:simpleType>
+              <xs:restriction base="xs:string">
+                <xs:enumeration value="weak"/>
+                <xs:enumeration value="strong"/>
+                <xs:enumeration value=""/>
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:attribute>
+          
+          
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  
+  <xs:simpleType name="ponctuation">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="\,|\.|\!|\?|∣|∣"/>
+      <xs:length value="1"/>
+    </xs:restriction>
+  </xs:simpleType>
+  
+  
+  <!--  Les mots-->
+  
+  <xs:element name="w">
+    <xs:complexType mixed="true">
+      <xs:simpleContent>
+        <xs:extension  base="ns1:regleEcriture">
+          <xs:attribute name="lemma">
+            <xs:simpleType>
+              <xs:restriction base="xs:string"> 
+                <xs:pattern value="(/?[\P{Zs}]+)+"/>
+              </xs:restriction>
+              
+            </xs:simpleType>
+          </xs:attribute>
+          
+          <xs:attribute name="subtype">
+            <xs:simpleType>
+              <xs:restriction base="xs:string">
+                <xs:enumeration value="motion_initial"/>
+                <xs:enumeration value="motion_median"/>
+                <xs:enumeration value="motion_final"/>
+                <xs:enumeration value="perception"/>
+                <xs:enumeration value="topographic"/>
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:attribute>
+          
+          <!--  lemme enumeration-->
+          <xs:attribute name="type" use="required">
+            <xs:simpleType>
+              <xs:restriction base="xs:string">
+                <xs:enumeration value="N"/> 
+                <xs:enumeration value="V"/>
+                <xs:enumeration value="PRO"/>
+                <xs:enumeration value="PREPDET"/>
+                <xs:enumeration value="A"/>
+                <xs:enumeration value="PREP"/> 
+                <xs:enumeration value="NPr"/>
+                <xs:enumeration value="ADV"/>
+                <xs:enumeration value="DET"/> 
+                <xs:enumeration value="N"/>
+                <xs:enumeration value="V"/>
+                <xs:enumeration value="PRO"/>
+                <xs:enumeration value="PREP"/>
+                <xs:enumeration value="Npr"/>
+                <xs:enumeration value="ADJ"/>
+                <xs:enumeration value="DET"/>
+                <xs:enumeration value="CONJC"/>
+                <xs:enumeration value="NOM"/>
+                <xs:enumeration value="DET:ART"/>
+                <xs:enumeration value="PRP"/>
+                <xs:enumeration value="NAM"/>
+                <xs:enumeration value="KON"/>
+                <xs:enumeration value="VER"/> 
+                <xs:enumeration value="VER:ppre"/>
+                <xs:enumeration value="PRO:PER"/>
+                <xs:enumeration value="VER:pres"/>
+                <xs:enumeration value="VER:infi"/>
+                <xs:enumeration value="PRP:det"/>
+                <xs:enumeration value="PRO:REL"/>
+                <xs:enumeration value="PRO:IND"/>
+                <xs:enumeration value="NUM"/>
+                <xs:enumeration value="PRO:DEM"/>
+                <xs:enumeration value="DET:POS"/>
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:attribute>
+        </xs:extension>
+      </xs:simpleContent>
+
+    </xs:complexType>
+  </xs:element>
+  
+  <xs:simpleType name="regleEcriture">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="(/?[\P{Zs}]+)+"/>
+    </xs:restriction>
+  </xs:simpleType>
+  
+</xs:schema>

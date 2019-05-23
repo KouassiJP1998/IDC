@@ -1,0 +1,1016 @@
+
+        {
+        "type": "FeatureCollection",
+        "features": [
+        
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#00FECB",
+        "fichierSource" : "./XMLFiles/1e_jour_de_pralognan_au_refuge_de_la_lei.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Petit Mont Blanc",
+        "id": "",
+        "lat": "45.35601",
+        "lng": "6.68551",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [6.68551, 45.35601]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#00FECB",
+        "fichierSource" : "./XMLFiles/1e_jour_de_pralognan_au_refuge_de_la_lei.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Lac Rond",
+        "id": "",
+        "lat": "45.38803",
+        "lng": "6.79961",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [6.79961, 45.38803]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#82EB00",
+        "fichierSource" : "./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Saint-Jacques",
+        "id": "",
+        "lat": "43.96984",
+        "lng": "6.37413",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [6.37413, 43.96984]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#82EB00",
+        "fichierSource" : "./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Saint-Privat",
+        "id": "",
+        "lat": "45.13831",
+        "lng": "2.09902",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [2.09902, 45.13831]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#82EB00",
+        "fichierSource" : "./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "La Roche",
+        "id": "",
+        "lat": "45.28672",
+        "lng": "1.39695",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [1.39695, 45.28672]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#82EB00",
+        "fichierSource" : "./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Saint-Christophe",
+        "id": "",
+        "lat": "46.14561",
+        "lng": "-0.948",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [-0.948, 46.14561]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#82EB00",
+        "fichierSource" : "./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Dolaison",
+        "id": "",
+        "lat": "45.00266",
+        "lng": "3.83278",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [3.83278, 45.00266]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#82EB00",
+        "fichierSource" : "./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Tallode",
+        "id": "",
+        "lat": "44.99502",
+        "lng": "3.81125",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [3.81125, 44.99502]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#82EB00",
+        "fichierSource" : "./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Liac",
+        "id": "",
+        "lat": "43.41423",
+        "lng": "0.09948",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [0.09948, 43.41423]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#82EB00",
+        "fichierSource" : "./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Saint-Roch",
+        "id": "",
+        "lat": "47.4421",
+        "lng": "0.58486",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [0.58486, 47.4421]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#82EB00",
+        "fichierSource" : "./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Oeuf",
+        "id": "",
+        "lat": "48.53655",
+        "lng": "2.3721",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [2.3721, 48.53655]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#82EB00",
+        "fichierSource" : "./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Chier",
+        "id": "",
+        "lat": "45.11667",
+        "lng": "4.11667",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [4.11667, 45.11667]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#82EB00",
+        "fichierSource" : "./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Allier",
+        "id": "",
+        "lat": "46.5",
+        "lng": "3",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [3, 46.5]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#82EB00",
+        "fichierSource" : "./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Puy",
+        "id": "",
+        "lat": "45.02485",
+        "lng": "0.55874",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [0.55874, 45.02485]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#82EB00",
+        "fichierSource" : "./XMLFiles/1ere_etape_du_chemin_vers_saint_jacques_.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Velay",
+        "id": "",
+        "lat": "45.33333",
+        "lng": "3.66667",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [3.66667, 45.33333]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#EB8DD2",
+        "fichierSource" : "./XMLFiles/1ere_etape_du_tmb.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Bellevue",
+        "id": "",
+        "lat": "48.58333",
+        "lng": "-3.81667",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [-3.81667, 48.58333]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#EB8DD2",
+        "fichierSource" : "./XMLFiles/1ere_etape_du_tmb.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Tricot",
+        "id": "",
+        "lat": "49.5608",
+        "lng": "2.58789",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [2.58789, 49.5608]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#EB8DD2",
+        "fichierSource" : "./XMLFiles/1ere_etape_du_tmb.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Mont Truc",
+        "id": "",
+        "lat": "45.83984",
+        "lng": "6.75018",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [6.75018, 45.83984]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#FFD901",
+        "fichierSource" : "./XMLFiles/2e_jour_du_refuge_de_la_leisse_au_refuge.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Fresse",
+        "id": "",
+        "lat": "47.7625",
+        "lng": "6.63279",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [6.63279, 47.7625]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#EB8A01",
+        "fichierSource" : "./XMLFiles/4eme_etape_du_tmb.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Doire",
+        "id": "",
+        "lat": "45.05887",
+        "lng": "2.43169",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [2.43169, 45.05887]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#FF1F0A",
+        "fichierSource" : "./XMLFiles/7eme_etape_du_tmb.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Montroc",
+        "id": "",
+        "lat": "45.99795",
+        "lng": "6.93636",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [6.93636, 45.99795]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#FF1F0A",
+        "fichierSource" : "./XMLFiles/7eme_etape_du_tmb.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Chamonix",
+        "id": "",
+        "lat": "45.92375",
+        "lng": "6.86933",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [6.86933, 45.92375]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#FF1F0A",
+        "fichierSource" : "./XMLFiles/7eme_etape_du_tmb.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Champ",
+        "id": "",
+        "lat": "49.23107",
+        "lng": "5.30751",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [5.30751, 49.23107]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#FFE98C",
+        "fichierSource" : "./XMLFiles/alentours_d_hennebont_et_le_chemin_de_ha.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Hennebont",
+        "id": "",
+        "lat": "47.80512",
+        "lng": "-3.27337",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [-3.27337, 47.80512]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#FFE98C",
+        "fichierSource" : "./XMLFiles/alentours_d_hennebont_et_le_chemin_de_ha.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Blavet",
+        "id": "",
+        "lat": "47.7377",
+        "lng": "-3.34335",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [-3.34335, 47.7377]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#FFE98C",
+        "fichierSource" : "./XMLFiles/alentours_d_hennebont_et_le_chemin_de_ha.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Port-Louis",
+        "id": "",
+        "lat": "47.70704",
+        "lng": "-3.35484",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [-3.35484, 47.70704]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#FFE98C",
+        "fichierSource" : "./XMLFiles/alentours_d_hennebont_et_le_chemin_de_ha.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Saint-Antoine",
+        "id": "",
+        "lat": "44.03578",
+        "lng": "0.84028",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [0.84028, 44.03578]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#FFE98C",
+        "fichierSource" : "./XMLFiles/alentours_d_hennebont_et_le_chemin_de_ha.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Saint-Gilles",
+        "id": "",
+        "lat": "48.15381",
+        "lng": "-1.82477",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [-1.82477, 48.15381]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#FFE98C",
+        "fichierSource" : "./XMLFiles/alentours_d_hennebont_et_le_chemin_de_ha.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Saint-Germain",
+        "id": "",
+        "lat": "47.72496",
+        "lng": "6.53117",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [6.53117, 47.72496]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#FFE98C",
+        "fichierSource" : "./XMLFiles/alentours_d_hennebont_et_le_chemin_de_ha.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Lochrist",
+        "id": "",
+        "lat": "48.63022",
+        "lng": "-4.23533",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [-4.23533, 48.63022]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#FFE98C",
+        "fichierSource" : "./XMLFiles/alentours_d_hennebont_et_le_chemin_de_ha.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Grand",
+        "id": "",
+        "lat": "48.38494",
+        "lng": "5.48701",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [5.48701, 48.38494]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#E901EA",
+        "fichierSource" : "./XMLFiles/au_depart_de_la_pointe_du_millier.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Lescogan",
+        "id": "",
+        "lat": "48.08692",
+        "lng": "-4.46217",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [-4.46217, 48.08692]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#FAF8FF",
+        "fichierSource" : "./XMLFiles/au_depart_de_merrien.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Merrien",
+        "id": "",
+        "lat": "47.78333",
+        "lng": "-3.65",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [-3.65, 47.78333]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#FAF8FF",
+        "fichierSource" : "./XMLFiles/au_depart_de_merrien.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Herry",
+        "id": "",
+        "lat": "47.21667",
+        "lng": "2.95385",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [2.95385, 47.21667]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#FAF8FF",
+        "fichierSource" : "./XMLFiles/au_depart_de_merrien.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Bois",
+        "id": "",
+        "lat": "45.48876",
+        "lng": "-0.59853",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [-0.59853, 45.48876]
+                
+                }  
+            
+        
+        },
+        
+        
+        {
+        "type": "Feature",
+        "properties": {
+        "marker-color":"#FAF8FF",
+        "fichierSource" : "./XMLFiles/au_depart_de_merrien.xml",
+        "geonameId": "",
+        "countryCode": "FR",
+        "name": "Prat",
+        "id": "",
+        "lat": "48.67677",
+        "lng": "-3.29707",
+        "fcl": "",
+        "fcode": ""
+        },
+        "geometry": {
+        
+        
+        
+                "type": "Point",
+                "coordinates": 
+                [-3.29707, 48.67677]
+                
+                }  
+            
+        
+        }
+        ]
+        }
+    

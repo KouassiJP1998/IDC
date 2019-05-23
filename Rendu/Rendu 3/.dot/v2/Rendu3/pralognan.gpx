@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="byHand" version="1.1" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    
+    <wpt lat="45.38184" lon="6.7193">
+        <ele>0</ele>
+        <time>2019-03-16T11:49:06Z</time>
+        <name>Pralognan-la-Vanoise</name>
+    </wpt>
+</gpx>

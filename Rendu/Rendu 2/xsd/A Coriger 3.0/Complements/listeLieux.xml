@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liste>
+    <Lieu id="0" idOrigine="ene.0" lien="https://www.openstreetmap.org/api/0.6/node/606374063"
+        docOrigine="./XMLFiles/fr_leisse.xml" key="606374063">
+        <point name="Refuge de la Leisse" altitude="2487" latitude="45.3969460"
+            longitude="6.8822055"/>
+    </Lieu>
+    <Lieu id="1" idOrigine="ene.1" lien="https://www.openstreetmap.org/api/0.6/node/1993701388"
+        docOrigine="./XMLFiles/fr_leisse.xml" key="1993701388">
+        <point name="Col de la Leisse" altitude="2761" latitude="45.4247220" longitude="6.9080562"/>
+    </Lieu>
+    <Lieu id="2" idOrigine="ene.3" lien="https://www.openstreetmap.org/api/0.6/node/3294972333"
+        docOrigine="./XMLFiles/fr_leisse.xml" key="3294972333">
+        <point name="Plan des Nettes" place="locality" latitude="45.4030807" longitude="6.8918371"/>
+    </Lieu>
+    <Lieu id="3" idOrigine="ene.4" lien="https://www.openstreetmap.org/api/0.6/way/237049410"
+        docOrigine="./XMLFiles/fr_leisse.xml" key="237049410">
+        <point name="Lac des Nettes" latitude="45.4112432" longitude="6.8998876"/>
+        <point name="Lac des Nettes" latitude="45.4113314" longitude="6.9000533"/>
+        <point name="Lac des Nettes" latitude="45.4114181" longitude="6.9002160"/>
+        <point name="Lac des Nettes" latitude="45.4116486" longitude="6.8999971"/>
+        <point name="Lac des Nettes" latitude="45.4119083" longitude="6.8998084"/>
+        <point name="Lac des Nettes" latitude="45.4120832" longitude="6.8998876"/>
+        <point name="Lac des Nettes" latitude="45.4121309" longitude="6.9000273"/>
+        <point name="Lac des Nettes" latitude="45.4121653" longitude="6.9003670"/>
+        <point name="Lac des Nettes" latitude="45.4122660" longitude="6.9004916"/>
+        <point name="Lac des Nettes" latitude="45.4124091" longitude="6.9004954"/>
+        <point name="Lac des Nettes" latitude="45.4125416" longitude="6.9004463"/>
+        <point name="Lac des Nettes" latitude="45.4127642" longitude="6.9006237"/>
+        <point name="Lac des Nettes" latitude="45.4130504" longitude="6.9006841"/>
+        <point name="Lac des Nettes" latitude="45.4133895" longitude="6.9004991"/>
+        <point name="Lac des Nettes" latitude="45.4134240" longitude="6.9003368"/>
+        <point name="Lac des Nettes" latitude="45.4135618" longitude="6.9001594"/>
+        <point name="Lac des Nettes" latitude="45.4136890" longitude="6.8998725"/>
+        <point name="Lac des Nettes" latitude="45.4137764" longitude="6.8998310"/>
+        <point name="Lac des Nettes" latitude="45.4138453" longitude="6.8999745"/>
+        <point name="Lac des Nettes" latitude="45.4140387" longitude="6.9001481"/>
+        <point name="Lac des Nettes" latitude="45.4142030" longitude="6.9005520"/>
+        <point name="Lac des Nettes" latitude="45.4143938" longitude="6.9007483"/>
+        <point name="Lac des Nettes" latitude="45.4144971" longitude="6.9010540"/>
+        <point name="Lac des Nettes" latitude="45.4147091" longitude="6.9011559"/>
+        <point name="Lac des Nettes" latitude="45.4148442" longitude="6.9011182"/>
+        <point name="Lac des Nettes" latitude="45.4146853" longitude="6.9009030"/>
+        <point name="Lac des Nettes" latitude="45.4146296" longitude="6.9006199"/>
+        <point name="Lac des Nettes" latitude="45.4146694" longitude="6.9002538"/>
+        <point name="Lac des Nettes" latitude="45.4145766" longitude="6.8998952"/>
+        <point name="Lac des Nettes" latitude="45.4142507" longitude="6.8995706"/>
+        <point name="Lac des Nettes" latitude="45.4139380" longitude="6.8996234"/>
+        <point name="Lac des Nettes" latitude="45.4135008" longitude="6.8993554"/>
+        <point name="Lac des Nettes" latitude="45.4135088" longitude="6.8991780"/>
+        <point name="Lac des Nettes" latitude="45.4134134" longitude="6.8989402"/>
+        <point name="Lac des Nettes" latitude="45.4132756" longitude="6.8989138"/>
+        <point name="Lac des Nettes" latitude="45.4130477" longitude="6.8984646"/>
+        <point name="Lac des Nettes" latitude="45.4128940" longitude="6.8982796"/>
+        <point name="Lac des Nettes" latitude="45.4126290" longitude="6.8982268"/>
+        <point name="Lac des Nettes" latitude="45.4124330" longitude="6.8983702"/>
+        <point name="Lac des Nettes" latitude="45.4123429" longitude="6.8986118"/>
+        <point name="Lac des Nettes" latitude="45.4123031" longitude="6.8991138"/>
+        <point name="Lac des Nettes" latitude="45.4121945" longitude="6.8995970"/>
+        <point name="Lac des Nettes" latitude="45.4121282" longitude="6.8997102"/>
+        <point name="Lac des Nettes" latitude="45.4119825" longitude="6.8996310"/>
+        <point name="Lac des Nettes" latitude="45.4118791" longitude="6.8994347"/>
+        <point name="Lac des Nettes" latitude="45.4117254" longitude="6.8993781"/>
+        <point name="Lac des Nettes" latitude="45.4113200" longitude="6.8993516"/>
+        <point name="Lac des Nettes" latitude="45.4112299" longitude="6.8995064"/>
+        <point name="Lac des Nettes" latitude="45.4112432" longitude="6.8998876"/>
+    </Lieu>
+    <Lieu id="4" idOrigine="ene.6" lien="https://www.openstreetmap.org/api/0.6/node/1917284135"
+        docOrigine="./XMLFiles/fr_leisse.xml" key="1917284135">
+        <point name="Col de Fresse" altitude="2576" latitude="45.4402997" longitude="6.9262064"/>
+    </Lieu>
+    <Lieu id="5" idOrigine="ene.7" lien="https://www.openstreetmap.org/api/0.6/node/249838326"
+        docOrigine="./XMLFiles/fr_leisse.xml" key="249838326">
+        <point name="Val-Claret" place="hamlet" latitude="45.4563141" longitude="6.8999737"/>
+    </Lieu>
+    <Lieu id="6" idOrigine="ene.11" lien="https://www.openstreetmap.org/api/0.6/way/97309078"
+        docOrigine="./XMLFiles/fr_leisse.xml" key="97309078">
+        <point name="Chalet Refuge de Lognan" altitude="2032" latitude="45.9708921"
+            longitude="6.9567053"/>
+        <point name="Chalet Refuge de Lognan" altitude="2032" latitude="45.9708695"
+            longitude="6.9566000"/>
+        <point name="Chalet Refuge de Lognan" altitude="2032" latitude="45.9707157"
+            longitude="6.9566683"/>
+        <point name="Chalet Refuge de Lognan" altitude="2032" latitude="45.9707250"
+            longitude="6.9567113"/>
+        <point name="Chalet Refuge de Lognan" altitude="2032" latitude="45.9707690"
+            longitude="6.9566917"/>
+        <point name="Chalet Refuge de Lognan" altitude="2032" latitude="45.9707823"
+            longitude="6.9567541"/>
+        <point name="Chalet Refuge de Lognan" altitude="2032" latitude="45.9708282"
+            longitude="6.9567337"/>
+        <point name="Chalet Refuge de Lognan" altitude="2032" latitude="45.9708921"
+            longitude="6.9567053"/>
+    </Lieu>
+    <Lieu id="7" idOrigine="ene.15" lien="https://www.openstreetmap.org/api/0.6/way/184939055"
+        docOrigine="./XMLFiles/fr_leisse.xml" key="184939055">
+        <point name="Refuge du Palet" latitude="45.4583180" longitude="6.8610850"/>
+        <point name="Refuge du Palet" latitude="45.4582540" longitude="6.8610890"/>
+        <point name="Refuge du Palet" latitude="45.4582590" longitude="6.8613190"/>
+        <point name="Refuge du Palet" latitude="45.4583240" longitude="6.8613160"/>
+        <point name="Refuge du Palet" latitude="45.4583180" longitude="6.8610850"/>
+    </Lieu>
+    <Lieu id="8" idOrigine="ene.0"
+        lien="http://api.geonames.org/get?geonameId=6442850&amp;username=unipau"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="6442850">
+        <point name="Pralognan-la-Vanoise" latitude="45.38139" longitude="6.72139"/>
+    </Lieu>
+    <Lieu id="9" idOrigine="ene.3" lien="https://www.openstreetmap.org/api/0.6/way/22723011"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="22723011">
+        <point name="Côte du Barioz" latitude="45.3801232" longitude="6.7246029"/>
+        <point name="Côte du Barioz" latitude="45.3800987" longitude="6.7242667"/>
+        <point name="Côte du Barioz" latitude="45.3800591" longitude="6.7241439"/>
+        <point name="Côte du Barioz" latitude="45.3799539" longitude="6.7238594"/>
+        <point name="Côte du Barioz" latitude="45.3799124" longitude="6.7237211"/>
+    </Lieu>
+    <Lieu id="10" idOrigine="ene.1" lien="https://www.openstreetmap.org/api/0.6/node/1785285659"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="1785285659">
+        <point name="La Vanoise" latitude="45.3796630" longitude="6.7233095"/>
+    </Lieu>
+    <Lieu id="11" idOrigine="ene.2" lien="https://www.openstreetmap.org/api/0.6/way/33791201"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="33791201">
+        <point name="Petit Mont-Blanc" latitude="45.3799072" longitude="6.7230337"/>
+        <point name="Petit Mont-Blanc" latitude="45.3799516" longitude="6.7232929"/>
+        <point name="Petit Mont-Blanc" latitude="45.3798293" longitude="6.7233314"/>
+        <point name="Petit Mont-Blanc" latitude="45.3798138" longitude="6.7232514"/>
+        <point name="Petit Mont-Blanc" latitude="45.3797999" longitude="6.7232587"/>
+        <point name="Petit Mont-Blanc" latitude="45.3797801" longitude="6.7231486"/>
+        <point name="Petit Mont-Blanc" latitude="45.3798418" longitude="6.7231270"/>
+        <point name="Petit Mont-Blanc" latitude="45.3798324" longitude="6.7230793"/>
+        <point name="Petit Mont-Blanc" latitude="45.3798494" longitude="6.7230550"/>
+        <point name="Petit Mont-Blanc" latitude="45.3799072" longitude="6.7230337"/>
+    </Lieu>
+    <Lieu id="12" idOrigine="ene.4" lien="https://www.openstreetmap.org/api/0.6/node/348057397"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="348057397">
+        <point name="Le Barioz" place="hamlet" latitude="45.3798377" longitude="6.7241408"/>
+    </Lieu>
+    <Lieu id="13" idOrigine="ene.5" lien="https://www.openstreetmap.org/api/0.6/way/47483060"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="47483060">
+        <point name="Les Bieux" latitude="45.3804377" longitude="6.7260542"/>
+        <point name="Les Bieux" latitude="45.3804825" longitude="6.7262745"/>
+        <point name="Les Bieux" latitude="45.3805720" longitude="6.7267140"/>
+        <point name="Les Bieux" latitude="45.3800966" longitude="6.7269233"/>
+        <point name="Les Bieux" latitude="45.3800187" longitude="6.7267878"/>
+        <point name="Les Bieux" latitude="45.3800384" longitude="6.7265714"/>
+        <point name="Les Bieux" latitude="45.3799745" longitude="6.7264299"/>
+        <point name="Les Bieux" latitude="45.3801484" longitude="6.7260257"/>
+        <point name="Les Bieux" latitude="45.3803936" longitude="6.7259343"/>
+        <point name="Les Bieux" latitude="45.3804377" longitude="6.7260542"/>
+    </Lieu>
+    <Lieu id="14" idOrigine="ene.8" lien="https://www.openstreetmap.org/api/0.6/node/340021951"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="340021951">
+        <point name="Fontanettes" place="hamlet" latitude="45.3805943" longitude="6.7336952"/>
+    </Lieu>
+    <Lieu id="15" idOrigine="ene.9" lien="https://www.openstreetmap.org/api/0.6/node/451703419"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="451703419">
+        <point name="Refuge des Barmettes" latitude="45.3895634" longitude="6.7527105"/>
+    </Lieu>
+    <Lieu id="16" idOrigine="ene.10" lien="https://www.openstreetmap.org/api/0.6/way/77515501"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="77515501">
+        <point name="Pont de la Glière" latitude="45.3897996" longitude="6.7537857"/>
+        <point name="Pont de la Glière" latitude="45.3898281" longitude="6.7537180"/>
+    </Lieu>
+    <Lieu id="17" idOrigine="ene.11" lien="https://www.openstreetmap.org/api/0.6/node/611846514"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="611846514">
+        <point name="Chalets de la Glière" place="locality" latitude="45.3921844"
+            longitude="6.7586562"/>
+    </Lieu>
+    <Lieu id="18" idOrigine="ene.12" lien="https://www.openstreetmap.org/api/0.6/node/611766049"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="611766049">
+        <point name="Le Moriond" altitude="2297" latitude="45.3869432" longitude="6.7581282"/>
+    </Lieu>
+    <Lieu id="19" idOrigine="ene.13" lien="https://www.openstreetmap.org/api/0.6/way/77516741"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="77516741">
+        <point name="Pont du Chanton" latitude="45.3953033" longitude="6.7676120"/>
+        <point name="Pont du Chanton" latitude="45.3952253" longitude="6.7676101"/>
+    </Lieu>
+    <Lieu id="20" idOrigine="ene.14" lien="https://www.openstreetmap.org/api/0.6/way/47518004"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="47518004">
+        <point name="Lac des Vaches" latitude="45.3987040" longitude="6.7780228"/>
+        <point name="Lac des Vaches" latitude="45.3988634" longitude="6.7778060"/>
+        <point name="Lac des Vaches" latitude="45.3989802" longitude="6.7775837"/>
+        <point name="Lac des Vaches" latitude="45.3989029" longitude="6.7769670"/>
+        <point name="Lac des Vaches" latitude="45.3986521" longitude="6.7761611"/>
+        <point name="Lac des Vaches" latitude="45.3983101" longitude="6.7757795"/>
+        <point name="Lac des Vaches" latitude="45.3981119" longitude="6.7753378"/>
+        <point name="Lac des Vaches" latitude="45.3976784" longitude="6.7749617"/>
+        <point name="Lac des Vaches" latitude="45.3972990" longitude="6.7747534"/>
+        <point name="Lac des Vaches" latitude="45.3971217" longitude="6.7748062"/>
+        <point name="Lac des Vaches" latitude="45.3969779" longitude="6.7750252"/>
+        <point name="Lac des Vaches" latitude="45.3971608" longitude="6.7757918"/>
+        <point name="Lac des Vaches" latitude="45.3971475" longitude="6.7765308"/>
+        <point name="Lac des Vaches" latitude="45.3972398" longitude="6.7769686"/>
+        <point name="Lac des Vaches" latitude="45.3975181" longitude="6.7770861"/>
+        <point name="Lac des Vaches" latitude="45.3978584" longitude="6.7774810"/>
+        <point name="Lac des Vaches" latitude="45.3983214" longitude="6.7781177"/>
+        <point name="Lac des Vaches" latitude="45.3987040" longitude="6.7780228"/>
+    </Lieu>
+    <Lieu id="21" idOrigine="ene.17" lien="https://www.openstreetmap.org/api/0.6/node/26863476"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="26863476">
+        <point name="La Grande Casse" altitude="3855" latitude="45.4051204" longitude="6.8278633"/>
+    </Lieu>
+    <Lieu id="22" idOrigine="ene.18" lien="https://www.openstreetmap.org/api/0.6/node/392507241"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="392507241">
+        <point name="Pointe du Creux Noir" altitude="3154" latitude="45.4062995"
+            longitude="6.7569985"/>
+    </Lieu>
+    <Lieu id="23" idOrigine="ene.19" lien="https://www.openstreetmap.org/api/0.6/way/206138757"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="206138757">
+        <point name="Lac Long" latitude="45.3969232" longitude="6.7897986"/>
+        <point name="Lac Long" latitude="45.3966626" longitude="6.7897903"/>
+        <point name="Lac Long" latitude="45.3962919" longitude="6.7896522"/>
+        <point name="Lac Long" latitude="45.3961355" longitude="6.7896238"/>
+        <point name="Lac Long" latitude="45.3960322" longitude="6.7897205"/>
+        <point name="Lac Long" latitude="45.3959077" longitude="6.7899014"/>
+        <point name="Lac Long" latitude="45.3957577" longitude="6.7902072"/>
+        <point name="Lac Long" latitude="45.3957024" longitude="6.7903406"/>
+        <point name="Lac Long" latitude="45.3956104" longitude="6.7905569"/>
+        <point name="Lac Long" latitude="45.3955535" longitude="6.7907974"/>
+        <point name="Lac Long" latitude="45.3954948" longitude="6.7909434"/>
+        <point name="Lac Long" latitude="45.3954052" longitude="6.7910718"/>
+        <point name="Lac Long" latitude="45.3952634" longitude="6.7912166"/>
+        <point name="Lac Long" latitude="45.3951934" longitude="6.7913478"/>
+        <point name="Lac Long" latitude="45.3949512" longitude="6.7917095"/>
+        <point name="Lac Long" latitude="45.3944571" longitude="6.7917234"/>
+        <point name="Lac Long" latitude="45.3942838" longitude="6.7917931"/>
+        <point name="Lac Long" latitude="45.3942009" longitude="6.7920881"/>
+        <point name="Lac Long" latitude="45.3939711" longitude="6.7924422"/>
+        <point name="Lac Long" latitude="45.3939109" longitude="6.7928177"/>
+        <point name="Lac Long" latitude="45.3940201" longitude="6.7931664"/>
+        <point name="Lac Long" latitude="45.3942273" longitude="6.7927587"/>
+        <point name="Lac Long" latitude="45.3944420" longitude="6.7927051"/>
+        <point name="Lac Long" latitude="45.3948376" longitude="6.7926782"/>
+        <point name="Lac Long" latitude="45.3950749" longitude="6.7923349"/>
+        <point name="Lac Long" latitude="45.3953039" longitude="6.7921893"/>
+        <point name="Lac Long" latitude="45.3958717" longitude="6.7920028"/>
+        <point name="Lac Long" latitude="45.3961126" longitude="6.7919473"/>
+        <point name="Lac Long" latitude="45.3963268" longitude="6.7919164"/>
+        <point name="Lac Long" latitude="45.3965712" longitude="6.7919363"/>
+        <point name="Lac Long" latitude="45.3968021" longitude="6.7918908"/>
+        <point name="Lac Long" latitude="45.3972400" longitude="6.7918394"/>
+        <point name="Lac Long" latitude="45.3976167" longitude="6.7916606"/>
+        <point name="Lac Long" latitude="45.3976615" longitude="6.7910076"/>
+        <point name="Lac Long" latitude="45.3977185" longitude="6.7901910"/>
+        <point name="Lac Long" latitude="45.3973660" longitude="6.7896338"/>
+        <point name="Lac Long" latitude="45.3969232" longitude="6.7897986"/>
+    </Lieu>
+    <Lieu id="24" idOrigine="ene.21" lien="https://www.openstreetmap.org/api/0.6/node/451703414"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="451703414">
+        <point name="Refuge du Col de la Vanoise ( Ex Félix Faure)" altitude="2516"
+            latitude="45.3919079" longitude="6.7905185"/>
+    </Lieu>
+    <Lieu id="25" idOrigine="ene.20" lien="https://www.openstreetmap.org/api/0.6/node/356247447"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="356247447">
+        <point name="Col de la Vanoise" altitude="2522" latitude="45.3901054" longitude="6.7950623"
+        />
+    </Lieu>
+    <Lieu id="26" idOrigine="ene.23" lien="https://www.openstreetmap.org/api/0.6/way/77517260"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="77517260">
+        <point name="Lac Rond" latitude="45.3884591" longitude="6.7978734"/>
+        <point name="Lac Rond" latitude="45.3886584" longitude="6.7979353"/>
+        <point name="Lac Rond" latitude="45.3888108" longitude="6.7981479"/>
+        <point name="Lac Rond" latitude="45.3888723" longitude="6.7985266"/>
+        <point name="Lac Rond" latitude="45.3888610" longitude="6.7989877"/>
+        <point name="Lac Rond" latitude="45.3889062" longitude="6.7992617"/>
+        <point name="Lac Rond" latitude="45.3888783" longitude="6.7995711"/>
+        <point name="Lac Rond" latitude="45.3888124" longitude="6.7999276"/>
+        <point name="Lac Rond" latitude="45.3887400" longitude="6.8001636"/>
+        <point name="Lac Rond" latitude="45.3886229" longitude="6.8004231"/>
+        <point name="Lac Rond" latitude="45.3884438" longitude="6.8007712"/>
+        <point name="Lac Rond" latitude="45.3883015" longitude="6.8009236"/>
+        <point name="Lac Rond" latitude="45.3881877" longitude="6.8010424"/>
+        <point name="Lac Rond" latitude="45.3880745" longitude="6.8011001"/>
+        <point name="Lac Rond" latitude="45.3879728" longitude="6.8011031"/>
+        <point name="Lac Rond" latitude="45.3878569" longitude="6.8010057"/>
+        <point name="Lac Rond" latitude="45.3876476" longitude="6.8007102"/>
+        <point name="Lac Rond" latitude="45.3875181" longitude="6.8005949"/>
+        <point name="Lac Rond" latitude="45.3873909" longitude="6.8004208"/>
+        <point name="Lac Rond" latitude="45.3873089" longitude="6.8001848"/>
+        <point name="Lac Rond" latitude="45.3873056" longitude="6.7998155"/>
+        <point name="Lac Rond" latitude="45.3873056" longitude="6.7995878"/>
+        <point name="Lac Rond" latitude="45.3874796" longitude="6.7990506"/>
+        <point name="Lac Rond" latitude="45.3876755" longitude="6.7986689"/>
+        <point name="Lac Rond" latitude="45.3878412" longitude="6.7983961"/>
+        <point name="Lac Rond" latitude="45.3878881" longitude="6.7981919"/>
+        <point name="Lac Rond" latitude="45.3880069" longitude="6.7980262"/>
+        <point name="Lac Rond" latitude="45.3881023" longitude="6.7979515"/>
+        <point name="Lac Rond" latitude="45.3881350" longitude="6.7978685"/>
+        <point name="Lac Rond" latitude="45.3883082" longitude="6.7978772"/>
+        <point name="Lac Rond" latitude="45.3884591" longitude="6.7978734"/>
+    </Lieu>
+    <Lieu id="27" idOrigine="ene.24" lien="https://www.openstreetmap.org/api/0.6/way/208966838"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="208966838">
+        <point name="Pont de Croé-Vie" latitude="45.3764551" longitude="6.8339548"/>
+        <point name="Pont de Croé-Vie" latitude="45.3764947" longitude="6.8340909"/>
+    </Lieu>
+    <Lieu id="28" idOrigine="ene.25" lien="https://www.openstreetmap.org/api/0.6/way/108981729"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="108981729">
+        <point name="Refuge d'Entre Deux Eaux" latitude="45.3667000" longitude="6.8394130"/>
+        <point name="Refuge d'Entre Deux Eaux" latitude="45.3667500" longitude="6.8393190"/>
+        <point name="Refuge d'Entre Deux Eaux" latitude="45.3667236" longitude="6.8392852"/>
+        <point name="Refuge d'Entre Deux Eaux" latitude="45.3667650" longitude="6.8392310"/>
+        <point name="Refuge d'Entre Deux Eaux" latitude="45.3667284" longitude="6.8391776"/>
+        <point name="Refuge d'Entre Deux Eaux" latitude="45.3666825" longitude="6.8392325"/>
+        <point name="Refuge d'Entre Deux Eaux" latitude="45.3665980" longitude="6.8391240"/>
+        <point name="Refuge d'Entre Deux Eaux" latitude="45.3665240" longitude="6.8392040"/>
+        <point name="Refuge d'Entre Deux Eaux" latitude="45.3665690" longitude="6.8392850"/>
+        <point name="Refuge d'Entre Deux Eaux" latitude="45.3665860" longitude="6.8392670"/>
+        <point name="Refuge d'Entre Deux Eaux" latitude="45.3666650" longitude="6.8393580"/>
+        <point name="Refuge d'Entre Deux Eaux" latitude="45.3666540" longitude="6.8393810"/>
+        <point name="Refuge d'Entre Deux Eaux" latitude="45.3667000" longitude="6.8394130"/>
+    </Lieu>
+    <Lieu id="29" idOrigine="ene.27"
+        lien="http://api.geonames.org/get?geonameId=3003757&amp;username=unipau"
+        docOrigine="./XMLFiles/fr_pralognan.xml" key="3003757">
+        <point name="Torrent de la Leisse" latitude="45.3604" longitude="6.83641"/>
+    </Lieu>
+</liste>

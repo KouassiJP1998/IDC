@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns="http://www.opengis.net/kml/2.2"
+     xmlns:gx="http://www.google.com/kml/ext/2.2"
+     xmlns:kml="http://www.opengis.net/kml/2.2">
+   <Document>
+      <Placemark>
+         <name>Refuge de la Leisse</name>
+         <description>
+ID :
+0
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/node/606374063
+
+KEY :
+osm 606374063
+
+DOCUMENT :
+./XMLFiles/fr_leisse.xml
+
+ID_ORIGINE :
+ene.0
+
+ID_ORIGINE :
+ene.8
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.28
+
+</description>
+         <Point>
+            <coordinates>6.8822055,45.3969460</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Col de la Leisse</name>
+         <description>
+ID :
+1
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/node/1993701388
+
+KEY :
+osm 1993701388
+
+DOCUMENT :
+./XMLFiles/fr_leisse.xml
+
+ID_ORIGINE :
+ene.1
+
+ID_ORIGINE :
+ene.5
+
+</description>
+         <Point>
+            <coordinates>6.9080562,45.4247220</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Plan des Nettes</name>
+         <description>
+ID :
+2
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/node/3294972333
+
+KEY :
+osm 3294972333
+
+DOCUMENT :
+./XMLFiles/fr_leisse.xml
+
+ID_ORIGINE :
+ene.3
+
+</description>
+         <Point>
+            <coordinates>6.8918371,45.4030807</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Lac des Nettes</name>
+         <description>
+ID :
+3
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/way/237049410
+
+KEY :
+osm 237049410
+
+DOCUMENT :
+./XMLFiles/fr_leisse.xml
+
+ID_ORIGINE :
+ene.4
+
+</description>
+         <Point>
+            <coordinates>6.89986228367347,45.412961895918365</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Col de Fresse</name>
+         <description>
+ID :
+4
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/node/1917284135
+
+KEY :
+osm 1917284135
+
+DOCUMENT :
+./XMLFiles/fr_leisse.xml
+
+ID_ORIGINE :
+ene.6
+
+</description>
+         <Point>
+            <coordinates>6.9262064,45.4402997</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Val-Claret</name>
+         <description>
+ID :
+5
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/node/249838326
+
+KEY :
+osm 249838326
+
+DOCUMENT :
+./XMLFiles/fr_leisse.xml
+
+ID_ORIGINE :
+ene.7
+
+ID_ORIGINE :
+ene.10
+
+</description>
+         <Point>
+            <coordinates>6.8999737,45.4563141</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Chalet Refuge de Lognan</name>
+         <description>
+ID :
+6
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/way/97309078
+
+KEY :
+osm 97309078
+
+DOCUMENT :
+./XMLFiles/fr_leisse.xml
+
+ID_ORIGINE :
+ene.11
+
+</description>
+         <Point>
+            <coordinates>6.956696212500001,45.970809237500006</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Refuge du Palet</name>
+         <description>
+ID :
+7
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/way/184939055
+
+KEY :
+osm 184939055
+
+DOCUMENT :
+./XMLFiles/fr_leisse.xml
+
+ID_ORIGINE :
+ene.15
+
+</description>
+         <Point>
+            <coordinates>6.8611788,45.4582946</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Pralognan-la-Vanoise</name>
+         <description>
+ID :
+8
+
+LIEN :
+http://api.geonames.org/get?geonameId=6442850&amp;username=unipau
+
+KEY :
+geonames 6442850
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.0
+
+</description>
+         <Point>
+            <coordinates>6.72139,45.38139</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Côte du Barioz</name>
+         <description>
+ID :
+9
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/way/22723011
+
+KEY :
+osm 22723011
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.3
+
+</description>
+         <Point>
+            <coordinates>6.7241439,45.3800591</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>La Vanoise</name>
+         <description>
+ID :
+10
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/node/1785285659
+
+KEY :
+osm 1785285659
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.1
+
+</description>
+         <Point>
+            <coordinates>6.7233095,45.3796630</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Petit Mont-Blanc</name>
+         <description>
+ID :
+11
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/way/33791201
+
+KEY :
+osm 33791201
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.2
+
+</description>
+         <Point>
+            <coordinates>6.72316117,45.37985127</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Le Barioz</name>
+         <description>
+ID :
+12
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/node/348057397
+
+KEY :
+osm 348057397
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.4
+
+</description>
+         <Point>
+            <coordinates>6.7241408,45.3798377</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Les Bieux</name>
+         <description>
+ID :
+13
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/way/47483060
+
+KEY :
+osm 47483060
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.5
+
+</description>
+         <Point>
+            <coordinates>6.726376930000001,45.38026001</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Fontanettes</name>
+         <description>
+ID :
+14
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/node/340021951
+
+KEY :
+osm 340021951
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.8
+
+</description>
+         <Point>
+            <coordinates>6.7336952,45.3805943</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Refuge des Barmettes</name>
+         <description>
+ID :
+15
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/node/451703419
+
+KEY :
+osm 451703419
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.9
+
+</description>
+         <Point>
+            <coordinates>6.7527105,45.3895634</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Pont de la Glière</name>
+         <description>
+ID :
+16
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/way/77515501
+
+KEY :
+osm 77515501
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.10
+
+</description>
+         <Point>
+            <coordinates>6.7537180,45.3898281</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Chalets de la Glière</name>
+         <description>
+ID :
+17
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/node/611846514
+
+KEY :
+osm 611846514
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.11
+
+</description>
+         <Point>
+            <coordinates>6.7586562,45.3921844</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Le Moriond</name>
+         <description>
+ID :
+18
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/node/611766049
+
+KEY :
+osm 611766049
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.12
+
+</description>
+         <Point>
+            <coordinates>6.7581282,45.3869432</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Pont du Chanton</name>
+         <description>
+ID :
+19
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/way/77516741
+
+KEY :
+osm 77516741
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.13
+
+</description>
+         <Point>
+            <coordinates>6.7676101,45.3952253</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Lac des Vaches</name>
+         <description>
+ID :
+20
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/way/47518004
+
+KEY :
+osm 47518004
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.14
+
+ID_ORIGINE :
+ene.15
+
+</description>
+         <Point>
+            <coordinates>6.77651128888889,45.397975088888884</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>La Grande Casse</name>
+         <description>
+ID :
+21
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/node/26863476
+
+KEY :
+osm 26863476
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.17
+
+</description>
+         <Point>
+            <coordinates>6.8278633,45.4051204</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Pointe du Creux Noir</name>
+         <description>
+ID :
+22
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/node/392507241
+
+KEY :
+osm 392507241
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.18
+
+</description>
+         <Point>
+            <coordinates>6.7569985,45.4062995</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Lac Long</name>
+         <description>
+ID :
+23
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/way/206138757
+
+KEY :
+osm 206138757
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.19
+
+</description>
+         <Point>
+            <coordinates>6.791275667567567,45.395725000000006</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Refuge du Col de la Vanoise ( Ex Félix Faure)</name>
+         <description>
+ID :
+24
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/node/451703414
+
+KEY :
+osm 451703414
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.21
+
+</description>
+         <Point>
+            <coordinates>6.7905185,45.3919079</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Col de la Vanoise</name>
+         <description>
+ID :
+25
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/node/356247447
+
+KEY :
+osm 356247447
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.20
+
+</description>
+         <Point>
+            <coordinates>6.7950623,45.3901054</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Lac Rond</name>
+         <description>
+ID :
+26
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/way/77517260
+
+KEY :
+osm 77517260
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.23
+
+</description>
+         <Point>
+            <coordinates>6.799418787096775,45.388155845161286</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Pont de Croé-Vie</name>
+         <description>
+ID :
+27
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/way/208966838
+
+KEY :
+osm 208966838
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.24
+
+</description>
+         <Point>
+            <coordinates>6.8340909,45.3764947</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Refuge d'Entre Deux Eaux</name>
+         <description>
+ID :
+28
+
+LIEN :
+https://www.openstreetmap.org/api/0.6/way/108981729
+
+KEY :
+osm 108981729
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.25
+
+</description>
+         <Point>
+            <coordinates>6.839283869230771,45.36666503846155</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+         <name>Torrent de la Leisse</name>
+         <description>
+ID :
+29
+
+LIEN :
+http://api.geonames.org/get?geonameId=3003757&amp;username=unipau
+
+KEY :
+geonames 3003757
+
+DOCUMENT :
+./XMLFiles/fr_pralognan.xml
+
+ID_ORIGINE :
+ene.27
+
+</description>
+         <Point>
+            <coordinates>6.83641,45.3604</coordinates>
+         </Point>
+      </Placemark>
+   </Document>
+</kml>
+

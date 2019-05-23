@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <!-- title of the resource -->
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <p>
+          <!-- Information about distribution of the resource -->
+        </p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>
+          <!-- Information about source from which the resource derives -->
+        </p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+     
+      
+        
+          
+        
+      
+      
+        
+          
+        
+      
+      
+        
+          
+        
+      
+    
+  
+  
+    
+      
+        <s xmlns="http://www.tei-c.org/ns/1.0"><w lemma="au" type="PREPDET">Au</w><w lemma="du" type="PREPDET">du</w><pc force="strong">.</pc>
+          <w lemma="au" type="PREPDET">Au</w>
+          
+            <w lemma="départ" type="N">départ</w>
+          
+          <w lemma="du" type="PREPDET">du</w>
+          
+            
+              
+                <w lemma="refuge" type="N">refuge</w>
+              
+              <w lemma="de" type="PREP">de</w>
+              <w lemma="le" type="DET">la</w>
+              
+                <w type="NPr">Leisse</w>
+              
+            
+          
+          
+            <w lemma="prendre" type="V" subtype="motion_median">prendre</w>
+            
+              <w lemma="le" type="DET">la</w>
+              <w lemma="direction" type="N">direction</w>
+            
+            <w lemma="du" type="PREPDET">du</w>
+            
+              
+                
+                  <w lemma="col" type="N">col</w>
+                
+                <w lemma="de" type="PREP">de</w>
+                
+                  <w type="NPr">Leisse</w>
+                
+              
+            
+            
+              <w lemma="sur" type="PREP">sur</w>
+            
+            <w lemma="le" type="DET">le</w>
+            
+              
+                <w type="NPr">GR55</w>
+              
+            
+          
+          <pc force="strong">.</pc>
+        </s>
+        <s xmlns="http://www.tei-c.org/ns/1.0"><pc force="strong">.</pc>
+          
+            <w lemma="contourner" type="V" subtype="motion_median">Contourner</w>
+            
+              
+                
+                  <w lemma="le" type="DET">le</w>
+                  <w lemma="plan" type="N">plan</w>
+                
+                <w lemma="du" type="PREPDET">des</w>
+                
+                  <w lemma="nette" type="NPr">Nettes</w>
+                
+              
+            
+            
+              <w lemma="par" type="PREP">par</w>
+              <w lemma="le" type="DET">la</w>
+              <w lemma="gauche" type="A">gauche</w>
+            
+          
+          <pc force="strong">.</pc>
+        </s>
+        <s xmlns="http://www.tei-c.org/ns/1.0"><w lemma="qui" type="PRO">qui</w><pc force="strong">.</pc>
+          
+            <w lemma="un" type="DET">Un</w>
+            <w lemma="peu" type="ADV">peu</w>
+            <w lemma="plus" type="ADV">plus</w>
+            <w lemma="loin" type="ADV">loin</w>
+          
+          
+            <w lemma="suivre" type="V" subtype="motion_median">suivre</w>
+            
+              <w lemma="le" type="DET">le</w>
+              <w lemma="chemin" type="N">chemin</w>
+            
+          
+          <w lemma="qui" type="PRO">qui</w>
+          
+            <w lemma="passer" type="V" subtype="motion_median">passe</w>
+            
+              <w lemma="par" type="PREP">par</w>
+            
+            
+              
+                <w lemma="le" type="DET">la</w>
+                <w type="N">droite</w>
+                <w lemma="du" type="PREPDET">du</w>
+              
+              
+                
+                  <w lemma="lac" type="N">lac</w>
+                
+                <w lemma="du" type="PREPDET">des</w>
+                
+                  <w type="NPr">Nettes</w>
+                
+              
+            
+          
+          <pc force="strong">.</pc>
+        </s>
+        <s xmlns="http://www.tei-c.org/ns/1.0"><w lemma="tout" type="PRO">Tout</w><w lemma="ceci" type="PRO">ceci</w><w lemma="nous" type="PRO">nous</w><w lemma="de" type="PREP">d'</w><w lemma="où" type="PRO">où</w><w lemma="le" type="DET">l'</w><w lemma="on" type="PRO">on</w><w lemma="où" type="PRO">où</w><w lemma="il" type="PRO">il</w><w lemma="falloir" type="V">faut</w><pc>(</pc><w lemma="ne" type="ADV">ne</w><w lemma="pas" type="ADV">pas</w><pc>)</pc><pc force="strong">.</pc>
+          <w lemma="tout" type="PRO">Tout</w>
+          <w lemma="ceci" type="PRO">ceci</w>
+          <w lemma="nous" type="PRO">nous</w>
+          
+            <w lemma="amener" type="V" subtype="motion_final">amène</w>
+            
+              <w lemma="au" type="PREPDET">au</w>
+            
+            
+              
+                
+                  <w lemma="col" type="N">col</w>
+                
+                <w lemma="de" type="PREP">de</w>
+                <w lemma="le" type="DET">la</w>
+                
+                  <w type="NPr">Leisse</w>
+                
+              
+            
+          
+          <w lemma="de" type="PREP">d'</w>
+          <w lemma="où" type="PRO">où</w>
+          <w lemma="le" type="DET">l'</w>
+          <w lemma="on" type="PRO">on</w>
+          
+            <w lemma="amorcer" type="V">amorce</w>
+            <w lemma="le" type="DET">la</w>
+            <w lemma="descente" type="N">descente</w>
+            
+              <w lemma="jusque" type="PREP">jusqu'</w>
+              <w lemma="à" type="PREP">à</w>
+            
+            
+              <w lemma="un" type="DET">un</w>
+              <w lemma="embranchement" type="N">embranchement</w>
+            
+          
+          <w lemma="où" type="PRO">où</w>
+          <w lemma="il" type="PRO">il</w>
+          <w lemma="falloir" type="V">faut</w>
+          
+            <w lemma="continuer" type="V" subtype="motion_median">continuer</w>
+            <w lemma="tout" type="PRO">tout</w>
+            
+              <w lemma="droit" type="N">droit</w>
+            
+          
+          <pc>(</pc>
+          <w lemma="ne" type="ADV">ne</w>
+          <w lemma="pas" type="ADV">pas</w>
+          
+            <w lemma="partir" type="V" subtype="motion_initial">partir</w>
+            
+              <w lemma="à" type="PREP">à</w>
+              <w type="N">droite</w>
+            
+            
+              <w lemma="vers" type="PREP">vers</w>
+            
+            
+              
+                
+                  <w lemma="le" type="DET">le</w>
+                  <w lemma="col" type="N">col</w>
+                
+                <w lemma="de" type="PREP">de</w>
+                
+                  <w type="NPr">Fresse</w>
+                
+              
+            
+          
+          <pc>)</pc>
+          <pc force="strong">.</pc>
+        </s>
+        <s xmlns="http://www.tei-c.org/ns/1.0"><pc force="weak">,</pc><w lemma="on" type="PRO">on</w><pc force="strong">.</pc>
+          
+            <w lemma="un" type="DET">Un</w>
+            <w lemma="peu" type="ADV">peu</w>
+            <w lemma="plus" type="ADV">plus</w>
+            <w lemma="tard" type="ADV">tard</w>
+          
+          <pc force="weak">,</pc>
+          
+            <w lemma="au" type="PREPDET">au</w>
+            <w lemma="loin" type="ADV">loin</w>
+          
+          <w lemma="on" type="PRO">on</w>
+          
+            <w lemma="apercevoir" type="V" subtype="perception">aperçoit</w>
+            
+              <w lemma="le" type="DET">le</w>
+              
+                <w type="NPr">Val</w>
+                <w type="NPr">Claret</w>
+              
+            
+          
+          <pc force="strong">.</pc>
+        </s>
+        <s xmlns="http://www.tei-c.org/ns/1.0"><w lemma="pour" type="PREP">Pour</w><w lemma="y" type="PRO">y</w><w lemma="arriver" type="V" subtype="motion_final">arriver</w><pc force="weak">,</pc><w lemma="où" type="PRO">où</w><w lemma="le" type="DET">l'</w><w lemma="on" type="PRO">on</w><w lemma="pour" type="PREP">pour</w><pc force="strong">.</pc>
+          <w lemma="pour" type="PREP">Pour</w>
+          <w lemma="y" type="PRO">y</w>
+          <w lemma="arriver" type="V" subtype="motion_final">arriver</w>
+          <pc force="weak">,</pc>
+          
+            <w lemma="suivre" type="V" subtype="motion_median">suivre</w>
+            
+              <w lemma="le" type="DET">le</w>
+              <w lemma="télésiège" type="N">télésiège</w>
+            
+            
+              <w lemma="jusque" type="PREP">jusqu'</w>
+              <w lemma="au" type="PREPDET">au</w>
+            
+            
+              
+                
+                  <w lemma="chalet" type="N">chalet</w>
+                
+                <w lemma="de" type="PREP">de</w>
+                <w lemma="le" type="DET">la</w>
+                
+                  <w type="NPr">Leisse</w>
+                
+              
+            
+          
+          <w lemma="où" type="PRO">où</w>
+          <w lemma="le" type="DET">l'</w>
+          <w lemma="on" type="PRO">on</w>
+          
+            <w lemma="quitter" type="V" subtype="motion_initial">quitte</w>
+            
+              <w lemma="le" type="DET">le</w>
+              
+                <w type="N">GR55</w>
+              
+            
+          
+          <w lemma="pour" type="PREP">pour</w>
+          
+            <w lemma="partir" type="V" subtype="motion_initial">partir</w>
+            <w lemma="sur" type="PREP">sur</w>
+            <w lemma="le" type="DET">le</w>
+            
+              <w lemma="sentier" type="N">sentier</w>
+            
+            <w lemma="à" type="PREP">à</w>
+            
+              <w lemma="gauche" type="N">gauche</w>
+            
+          
+          <pc force="strong">.</pc>
+        </s>
+        <s xmlns="http://www.tei-c.org/ns/1.0"><w lemma="ce" type="PRO">Ce</w><w lemma="dernier" type="N">dernier</w><w lemma="nous" type="PRO">nous</w><w lemma="que" type="PRO">que</w><w lemma="le" type="DET">l'</w><w lemma="on" type="PRO">on</w><pc force="strong">.</pc>
+          <w lemma="ce" type="PRO">Ce</w>
+          <w lemma="dernier" type="N">dernier</w>
+          <w lemma="nous" type="PRO">nous</w>
+          
+            <w lemma="mener" type="V" subtype="topographic">mène</w>
+            <w lemma="tout" type="ADV">tout</w>
+            <w lemma="à" type="PREP">à</w>
+            
+              <w lemma="gauche" type="N">gauche</w>
+              <w lemma="du" type="PREPDET">du</w>
+            
+            
+              
+                <w type="NPr">Val</w>
+                <w type="NPr">Claret</w>
+              
+            
+          
+          <w lemma="que" type="PRO">que</w>
+          <w lemma="le" type="DET">l'</w>
+          <w lemma="on" type="PRO">on</w>
+          
+            <w lemma="contourner" type="V" subtype="motion_median">contourne</w>
+            
+              <w lemma="jusque" type="PREP">jusqu'</w>
+              <w lemma="au" type="PREPDET">au</w>
+            
+            
+              <w lemma="premier" type="N">premier</w>
+              <w lemma="court" type="N">court</w>
+              <w lemma="de" type="PREP">de</w>
+              <w lemma="tennis" type="N">tennis</w>
+            
+          
+          
+            <w lemma="situer" type="V">situé</w>
+            <w lemma="à" type="PREP">à</w>
+            <w lemma="le" type="DET">l'</w>
+            <w lemma="arrière" type="N">arrière</w>
+            <w lemma="du" type="PREPDET">du</w>
+            <w lemma="village" type="N">village</w>
+          
+          <pc force="strong">.</pc>
+        </s>
+        <s xmlns="http://www.tei-c.org/ns/1.0"><w lemma="commencer" type="V">Commence</w><w lemma="alors" type="ADV">alors</w><w lemma="le" type="DET">l'</w><w lemma="ascension" type="N">ascension</w><w lemma="où" type="PRO">où</w><w lemma="le" type="DET">l'</w><w lemma="on" type="PRO">on</w><pc force="strong">.</pc>
+          <w lemma="commencer" type="V">Commence</w>
+          <w lemma="alors" type="ADV">alors</w>
+          
+          <w lemma="le" type="DET">l'</w>
+          <w lemma="ascension" type="N">ascension</w>
+          
+            <w lemma="jusque" type="PREP">jusqu'</w>
+            <w lemma="au" type="PREPDET">au</w>
+          
+          
+            
+              
+                <w lemma="chalet" type="N">chalet</w>
+              
+              <w lemma="de" type="PREP">de</w>
+              
+                <w type="NPr">Lognan</w>
+              
+            
+          
+          
+          <w lemma="où" type="PRO">où</w>
+          <w lemma="le" type="DET">l'</w>
+          <w lemma="on" type="PRO">on</w>
+          
+            <w lemma="rejoindre" type="V" subtype="motion_final">rejoint</w>
+            
+              <w lemma="le" type="DET">le</w>
+              
+                <w type="NPr">GR5</w>
+              
+            
+          
+          <pc force="strong">.</pc>
+        </s>
+        <s xmlns="http://www.tei-c.org/ns/1.0"><w lemma="qui" type="PRO">qui</w><pc force="strong">.</pc>
+          
+            <w lemma="prendre" type="V" subtype="motion_median">Prendre</w>
+            <w lemma="à" type="PREP">à</w>
+            
+              <w lemma="gauche" type="A">gauche</w>
+            
+            
+              <w lemma="le" type="DET">le</w>
+              <w lemma="sentier" type="N">sentier</w>
+            
+          
+          <w lemma="qui" type="PRO">qui</w>
+          
+            <w lemma="monter" type="V" subtype="motion_median">monte</w>
+            <w lemma="assez" type="ADV">assez</w>
+            <w lemma="durement" type="ADV">durement</w>
+            
+              <w lemma="jusque" type="PREP">jusqu'</w>
+              <w lemma="au" type="PREPDET">au</w>
+            
+            
+              
+                
+                  <w lemma="col" type="N">col</w>
+                
+                <w lemma="du" type="PREPDET">du</w>
+                
+                  <w type="NPr">Palet</w>
+                
+              
+            
+            <w lemma="toujours" type="ADV">toujours</w>
+            
+              <w lemma="sur" type="PREP">sur</w>
+            
+            
+              <w lemma="le" type="DET">le</w>
+              
+                <w type="NPr">GR5</w>
+              
+            
+          
+          <pc force="strong">.</pc>
+        </s>
+        <s xmlns="http://www.tei-c.org/ns/1.0"><w lemma="peu" type="ADV">Peu</w><w lemma="après" type="PREP">après</w><w type="PRO">l'</w><w lemma="avoir" type="V">avoir</w><w lemma="franchir" type="V" subtype="motion_final">franchi</w><pc force="weak">,</pc><w lemma="non" type="ADV">non</w><w lemma="loin" type="ADV">loin</w><w lemma="de" type="PREP">de</w><w lemma="là" type="ADV">là</w><w lemma="en" type="PREP">en</w><w lemma="contrebas" type="N">contrebas</w><pc force="strong">.</pc>
+          <w lemma="peu" type="ADV">Peu</w>
+          <w lemma="après" type="PREP">après</w>
+          <w type="PRO">l'</w>
+          <w lemma="avoir" type="V">avoir</w>
+          <w lemma="franchir" type="V" subtype="motion_final">franchi</w>
+          <pc force="weak">,</pc>
+          
+            <w lemma="se" type="PRO">se</w>
+            <w lemma="diriger" type="V" subtype="motion_final">diriger</w>
+            <w lemma="vers" type="PREP">vers</w>
+            
+              <w lemma="le" type="DET">la</w>
+              <w type="N">droite</w>
+            
+            
+            <w lemma="jusque" type="PREP">jusqu'</w>
+            <w lemma="au" type="PREPDET">au</w>
+            
+            
+              
+                
+                  <w lemma="refuge" type="N">refuge</w>
+                
+                <w lemma="du" type="PREPDET">du</w>
+                
+                  <w type="NPr">Palet</w>
+                
+              
+            
+          
+          <w lemma="non" type="ADV">non</w>
+          <w lemma="loin" type="ADV">loin</w>
+          <w lemma="de" type="PREP">de</w>
+          <w lemma="là" type="ADV">là</w>
+          <w lemma="en" type="PREP">en</w>
+          <w lemma="contrebas" type="N">contrebas</w>
+          <pc force="strong">.</pc>
+        </s>
+        <s xmlns="http://www.tei-c.org/ns/1.0"><w lemma="vous" type="PRO">Vous</w><w lemma="être" type="V">êtes</w><w lemma="arriver" type="V" subtype="motion_final">arrivés</w><pc force="strong" type="exclamative">!</pc>
+          <w lemma="vous" type="PRO">Vous</w>
+          <w lemma="être" type="V">êtes</w>
+          <w lemma="arriver" type="V" subtype="motion_final">arrivés</w>
+          <pc force="strong" type="exclamative">!</pc>
+        </s>
+        <s xmlns="http://www.tei-c.org/ns/1.0"/>
+      </p>
+    </body>
+  </text>
+</TEI>     
+    
+  

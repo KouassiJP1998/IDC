@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="resultats">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="entite_spatiale"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+ 
+  <xs:element name="entite_spatiale">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="LocContent">
+          <xs:attribute name="alt" use="required" type="xs:decimal"/>
+          <xs:attribute name="id" use="required" type="xs:integer"/>
+          <xs:attribute name="lat" use="required" type="xs:decimal"/>
+          <xs:attribute name="lng" use="required" type="xs:decimal"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType> 
+  </xs:element>
+  
+  
+  
+  <xs:simpleType name="LocContent">
+    <xs:restriction base="xs:string">
+      <!--     <xs:pattern value="\w*"/>--> 
+      <xs:pattern value="(\w+\s*|'?\-*)+" />
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>
